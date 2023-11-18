@@ -2380,7 +2380,7 @@ console.log('>>>>>>>>>TEST')
 
 
 // Check if the language is set to Italian (it-IT)
-if (window.navigator.language === 'it-IT' && !window.location.href.includes('/it/')) {
+// if (window.navigator.language === 'it-IT' && !window.location.href.includes('/it/')) {
 
-  window.location.href = 'http://localhost:8888/wordpress-test/it/'
-}
+//   window.location.href = 'http://localhost:8888/wordpress-test/it/'
+// }
