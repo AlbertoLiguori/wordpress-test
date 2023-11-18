@@ -1,0 +1,50 @@
+
+---Downloaded files---
+The import files for: SINGLE BED & BREAKFAST were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://villapinetasanmenaio.it
+Data file = /home/customer/www/villapinetasanmenaio.it/public_html/wp-content/plugins/homey-core/demos/homey05/content.xml
+Widget file = /home/customer/www/villapinetasanmenaio.it/public_html/wp-content/plugins/homey-core/demos/homey05/widgets.json
+Customizer file = not defined!
+Redux files:
+homey_options -> /home/customer/www/villapinetasanmenaio.it/public_html/wp-content/plugins/homey-core/demos/homey05/redux.json 
+
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Navigation Menu - Company - Imported
+Homey: Listing Card - Our Rooms - Imported
+Homey: Reviews - Latest Reviews - Imported
+Search - Search - Imported
+Homey: Latest Posts - Latest Posts - Imported
+Homey: Latest Comments - Latest Comments - Imported
+Homey: Contact Us - Contact Us - Imported
+
+Page Sidebar : 
+
+Navigation Menu - Company - Imported
+
+Listings Sidebar : 
+
+Mailchimp Sign-Up Form - Newsletter - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: homey_options finished successfully!
+
+---ocdi/after_import---
+

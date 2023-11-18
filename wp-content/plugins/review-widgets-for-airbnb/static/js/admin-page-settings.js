@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){Trustindex_Autocomplete.pageIdSeparator="/";Trustindex_Autocomplete.checkRegex=/airbnb\.[^\/]+\/(?:rooms|(experiences))\/(?:plus\/)?([^\?\/]+)/gm});

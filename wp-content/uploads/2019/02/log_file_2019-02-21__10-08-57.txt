@@ -1,0 +1,47 @@
+
+---Upload files---
+Content file was not uploaded. Error: 
+
+---Upload files---
+Customizer file was not uploaded. Error: File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.
+
+---Upload files---
+Redux file was not uploaded. Error: File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 60
+Files info:
+Site URL = https://demo05.gethomey.io
+Data file = not defined!
+Widget file = /home/89239.cloudwaysapps.com/ayraubbvnc/public_html/wp-content/uploads/2019/02/widgets.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Navigation Menu - Company - Imported
+Homey: Listing Card - Our Rooms - Imported
+Homey: Reviews - Latest Reviews - Imported
+Search - Search - Imported
+Homey: Latest Posts - Latest Posts - Imported
+Homey: Latest Comments - Latest Comments - Imported
+Homey: Contact Us - Contact Us - Imported
+
+Page Sidebar : 
+
+Navigation Menu - Company - Imported
+
+Listings Sidebar : 
+
+MailChimp Sign-Up Form - Newsletter - Widget already exists
+
+
+
+---pt-ocdi/after_import---
+

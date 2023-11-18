@@ -1,0 +1,1 @@
+document.getElementById("redirect_submit_form").submit();

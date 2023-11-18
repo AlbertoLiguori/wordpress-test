@@ -1,0 +1,3501 @@
+# Translation of Themes - Sinatra in Italian
+# This file is distributed under the same license as the Themes - Sinatra package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-03 22:37:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: it\n"
+"Project-Id-Version: Themes - Sinatra\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Sinatra is a lightweight and highly customizable multi-purpose theme that makes it easy for anyone to create their perfect website. You can use it for any type of website from blogs, businesses, online shops, creatives, hotels, restaurants, startups and more. With Sinatra you get the perfect blend of performance, modern design and powerful, yet simple to use options. Works perfectly with the new block editor (Gutenberg) and your favorite plugins such as: WooCommerce, JetPack, page builders, SEO plugins and others. It comes with microdata integration, unlimited colors, multiple layouts, pre-built demo websites and so much more. It's also translatable and built with best SEO practices. Try Sinatra theme today on https://try.sinatrawp.com"
+msgstr "Sinatra è un tema multiuso leggero e altamente personalizzabile, che rende facile per chiunque realizzare un perfetto sito web. Puoi usarlo per qualsiasi tipo di sito web: blog, aziende, negozi online, creativi, hotel, ristoranti, startup e altro ancora. Con Sinatra ottieni la combinazione perfetta di prestazioni, design moderno e opzioni potenti, ma semplici da usare. Funziona perfettamente con il nuovo editor a blocchi (Gutenberg) e i tuoi plugin preferiti come: WooCommerce, JetPack, page builder, plugin SEO e altri. Viene fornito con integrazione di microdata, colori illimitati, layout multipli, siti web dimostrativi preimpostati e molto altro ancora. È anche traducibile e progettato con le migliori pratiche SEO. Prova il tema Sinatra oggi su https://try.sinatrawp.com"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Sinatra"
+msgstr "Sinatra"
+
+#: template-parts/entry/format/media-quote.php:32
+msgid "Read more"
+msgstr "Leggi tutto"
+
+#: inc/customizer/customizer-helpers.php:104
+msgid "Hide On Mobile"
+msgstr "Nascondi su dispositivo mobile"
+
+#: inc/customizer/customizer-helpers.php:101
+msgid "Hide On Tablet"
+msgstr "Nascondi su tablet"
+
+#: inc/customizer/customizer-helpers.php:98
+msgid "Hide On Desktop"
+msgstr "Nascondi su desktop"
+
+#: inc/customizer/settings/class-sinatra-customizer-sticky-header.php:87
+msgid "Choose on which devices to hide Sticky Header on. "
+msgstr "Scegli su quali dispositivi nascondere l'header fisso. "
+
+#: inc/customizer/settings/class-sinatra-customizer-sticky-header.php:86
+msgid "Hide on: "
+msgstr "Nascondi su: "
+
+#: inc/customizer/settings/class-sinatra-customizer-sticky-header.php:69
+msgid "Responsive"
+msgstr "Responsive"
+
+#: searchform.php:24
+msgid "Enter search keywords"
+msgstr "Inserisci la parola chiave da cercare"
+
+#: inc/template-tags.php:341
+msgid "Menu"
+msgstr "Menu"
+
+#: template-parts/entry/format/media.php:36
+msgid "Featured"
+msgstr "In evidenza"
+
+#: template-parts/header/navigation.php:12
+msgid "Site Navigation"
+msgstr "Navigazione sito"
+
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:223
+msgid "Specify spacing around logo on transparent header. Negative values are allowed. Leave empty to inherit from Logos & Site Title » Logo Margin."
+msgstr "Specifica la spaziatura intorno al logo per l'header trasparente. Sono consentiti valori negativi. Lascia vuoto per ereditare da Loghi e titolo del sito » Margine del logo."
+
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:86
+msgid "1/3 + 2/3"
+msgstr "1/3 + 2/3"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:82
+msgid "2/3 + 1/3"
+msgstr "2/3 + 1/3"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:78
+msgid "1/3 + 1/3 + 1/3"
+msgstr "1/3 + 1/3 + 1/3"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:74
+msgid "1/4 + 1/4 + 1/4 + 1/4"
+msgstr "1/4 + 1/4 + 1/4 + 1/4"
+
+#: inc/customizer/settings/class-sinatra-customizer-sticky-header.php:57
+msgid "Enable Sticky Header"
+msgstr "Abilita l'header fisso"
+
+#: inc/customizer/settings/class-sinatra-customizer-sticky-header.php:46
+msgid "Sticky Header"
+msgstr "Header fisso"
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:214
+msgid "Hide"
+msgstr "Nascondi"
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:212
+msgid "Control sidebar position on smaller screens."
+msgstr "Controlla la posizione della barra laterale su schermi più piccoli."
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:211
+msgid "Responsive Sidebar Position"
+msgstr "Posizione della barra laterale responsive"
+
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:251
+msgid "Main Header Colors"
+msgstr "Colori dell'header principale"
+
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:199
+msgid "Maximum logo image height on transparent header."
+msgstr "Altezza massima dell'immagine del logo nell'header trasparente."
+
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:170
+msgid "Upload exactly 2x the size of your alternative logo to make your logo crisp on HiDPI screens. This options is not required if logo above is in SVG format."
+msgstr "Carica le dimensioni esattamente al doppio delle dimensioni del logo alternativo per renderlo nitido sugli schermi HiDPI. Questa opzione non è richiesta se il logo è in formato SVG."
+
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:169
+msgid "Alternative Logo - Retina"
+msgstr "Logo alternativo – Retina"
+
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:140
+msgid "Upload a different logo to be used with Transparent Header."
+msgstr "Carica un logo diverso da utilizzare nell'header trasparente."
+
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:139
+msgid "Alternative Logo"
+msgstr "Logo alternativo"
+
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:127
+msgid "Logo Settings"
+msgstr "Impostazioni del logo"
+
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:108
+msgid "Choose on which pages you want to disable Transparent Header. "
+msgstr "Scegli su quali pagine vuoi disabilitare l'header trasparente. "
+
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:74
+msgid "Search pages"
+msgstr "Cerca pagine"
+
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:71
+msgid "Archive pages"
+msgstr "Pagine archivio"
+
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:68
+msgid "Blog / Posts page"
+msgstr "Pagina Blog/Articoli"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:159
+msgid "Enable"
+msgstr "Abilita"
+
+#: inc/customizer/controls/alignment/class-sinatra-customizer-control-alignment.php:48
+msgid "Center"
+msgstr "Centra"
+
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:279
+msgid "Hide comments and comment form behind a toggle button. "
+msgstr "Nascondi i commenti e il modulo dei commenti dietro un pulsante di attivazione/disattivazione. "
+
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:217
+msgid "Next/Prev Post Links"
+msgstr "Link articolo Prec/Succ"
+
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:216
+msgid "About Author Box"
+msgstr "Box informazioni sull'autore"
+
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:215
+msgid "Last Updated Date"
+msgstr "Data dell'ultimo aggiornamento"
+
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:214
+msgid "Post Tags"
+msgstr "Tag dell'articolo"
+
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:213
+msgid "Post Categories"
+msgstr "Categorie articolo"
+
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:209
+msgid "Set visibility of post elements."
+msgstr "Imposta la visibilità degli elementi dell'articolo."
+
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:116
+msgid "Specify title top and bottom padding."
+msgstr "Specifica la spaziatura interna superiore e inferiore del titolo."
+
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:115
+msgid "Title Spacing"
+msgstr "Spaziatura del titolo"
+
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:72
+msgid "In Content"
+msgstr "Nel contenuto"
+
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:69
+msgid "Select title position for single post pages."
+msgstr "Seleziona la posizione del titolo per le pagine articolo singolo."
+
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:68
+msgid "Title Position"
+msgstr "Posizione del titolo"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:123
+msgid "Choose on which pages you want to disable Pre Footer Call to Action. "
+msgstr "Scegli su quali pagine vuoi disabilitare l'invito all'azione nel pre-footer. "
+
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:93
+msgid "Choose on which pages you want to enable Hero. "
+msgstr "Scegli su quali pagine vuoi abilitare l'Hero. "
+
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:92
+msgid "Enable On: "
+msgstr "Abilita su: "
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:87
+msgid "Featured Image Size"
+msgstr "Dimensioni immagine in evidenza"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:192
+msgid "Featured Image Position"
+msgstr "Posizione dell'immagine in evidenza"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:163
+msgid "Show Read More Button"
+msgstr "Mostra il pulsante Leggi tutto"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:145
+msgid "A list of categories the post belongs to. Displayed above post title."
+msgstr "Un elenco di categorie alle quali appartiene l'articolo. Viene visualizzato sopra al titolo dell'articolo."
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:57
+msgid "Choose blog layout. This will affect blog layout on archives, search results and posts page."
+msgstr "Scegli il layout del blog. Questo influisce sul layout del blog negli archivi, nei risultati della ricerca e nella pagina degli articoli."
+
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:140
+msgid "Specify top and bottom padding."
+msgstr "Specifica la spaziatura interna superiore e inferiore."
+
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:139
+msgid "Spacing"
+msgstr "Spaziatura"
+
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:110
+msgid "Alignment"
+msgstr "Allineamento"
+
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:92
+msgid "Below Header (Separate Container)"
+msgstr "Sotto l'header (contenitore separato)"
+
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:73
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:91
+msgid "In Page Header"
+msgstr "Nell'header della pagina"
+
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:69
+msgid "Choose on which pages you want to disable breadcrumbs. "
+msgstr "Scegli in quali pagine vuoi disabilitare i breadcrumb. "
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:122
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:107
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:68
+msgid "Disable On: "
+msgstr "Disabilita su: "
+
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:46
+msgid "Breadcrumbs"
+msgstr "Breadcrumb"
+
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:93
+msgid "Specify Page Title top and bottom padding."
+msgstr "Specifica la spaziatura interna superiore e inferiore del titolo della pagina."
+
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:92
+msgid "Page Title Spacing"
+msgstr "Spaziatura del titolo della pagina"
+
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:68
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:91
+msgid "Title Alignment"
+msgstr "Allineamento del titolo"
+
+#: inc/customizer/customizer-helpers.php:63
+msgid "Single Page"
+msgstr "Pagina singola"
+
+#: inc/customizer/customizer-helpers.php:57
+msgid "Dynamic pages such as categories, tags, custom taxonomies..."
+msgstr "Pagine dinamiche come categorie, tag, tassonomie personalizzate..."
+
+#: inc/customizer/customizer-helpers.php:56
+msgid "Archive"
+msgstr "Archivio"
+
+#: inc/customizer/customizer-helpers.php:50
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:100
+msgid "Blog / Posts Page"
+msgstr "Pagina Blog/Articoli"
+
+#: inc/customizer/customizer-helpers.php:47
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:97
+msgid "Home Page"
+msgstr "Homepage"
+
+#: inc/admin/class-sinatra-admin.php:247
+msgid "Join Facebook Group"
+msgstr "Unisciti al nostro gruppo Facebook"
+
+#: inc/admin/class-sinatra-dashboard.php:234
+msgid "Start Customizing"
+msgstr "Inizia a personalizzare"
+
+#: inc/admin/class-sinatra-dashboard.php:231
+msgid "There are many changes you can make to customize your website. Explore Sinatra customization options and make it unique."
+msgstr "Puoi apportare molte modifiche per personalizzare il tuo sito web. Esplora le opzioni di personalizzazione di Sinatra e rendi unico il tuo sito."
+
+#: inc/admin/class-sinatra-dashboard.php:230
+msgid "Let‘s customize your website"
+msgstr "Personalizza il sito web"
+
+#: inc/admin/class-sinatra-dashboard.php:134
+msgid "Explore recommended plugins. These free plugins provide additional features and customization options."
+msgstr "Esplora i plugin consigliati. Questi plugin gratuiti forniscono funzionalità e opzioni di personalizzazione aggiuntive."
+
+#: inc/compatibility/socialsnap/class-sinatra-socialsnap.php:67
+#: inc/compatibility/socialsnap/class-sinatra-socialsnap.php:69
+msgid "Shares"
+msgstr "Condivisioni"
+
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:504
+msgid "If left empty, accent color will be used instead."
+msgstr "Se lasciato vuoto, verrà usato il colore in risalto."
+
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:473
+msgid "Text Button"
+msgstr "Testo del pulsante"
+
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:378
+msgid "Specify secondary button corner roundness. Top left, top right, bottom left and bottom right is the order of the corresponding corners."
+msgstr "Specifica la rotondità dell'angolo del pulsante secondario. In alto a sinistra, in alto a destra, in basso a sinistra e in basso a destra è l'ordine degli angoli corrispondenti."
+
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:268
+msgid "Secondary Button"
+msgstr "Pulsante secondario"
+
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:218
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:424
+msgid "Hover Border Color"
+msgstr "Colore bordo al Passaggio del mouse"
+
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:199
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:405
+msgid "Border Color"
+msgstr "Colore del bordo"
+
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:172
+msgid "Specify primary button corner roundness. Top left, top right, bottom left and bottom right is the order of the corresponding corners."
+msgstr "Specifica la rotondità dell'angolo del pulsante principale. In alto a sinistra, in alto a destra, in basso a sinistra e in basso a destra è l'ordine degli angoli corrispondenti."
+
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:171
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:377
+msgid "Border Radius"
+msgstr "Raggio del bordo"
+
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:150
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:356
+msgid "Border Width"
+msgstr "Larghezza del bordo"
+
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:130
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:336
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:503
+msgid "Hover Text Color"
+msgstr "Colore del testo al passaggio del mouse"
+
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:92
+msgid "Set primary button hover background color. If left empty, lightened accent color will be used instead."
+msgstr "Imposta il colore di sfondo del pulsante principale al passaggio del mouse. Se lasciato vuoto, verrà utilizzato il colore chiaro in risalto."
+
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:91
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:298
+msgid "Hover Background Color"
+msgstr "Colore di sfondo al passaggio del mouse"
+
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:72
+msgid "Set primary button background color. If left empty, accent color will be used instead."
+msgstr "Imposta il colore di sfondo del pulsante principale. Se lasciato vuoto, verrà utilizzato il colore in risalto."
+
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:71
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:279
+msgid "Background Color"
+msgstr "Colore dello sfondo"
+
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:60
+msgid "Primary Button"
+msgstr "Pulsante principale"
+
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:46
+msgid "Buttons"
+msgstr "Pulsanti"
+
+#: inc/customizer/settings/class-sinatra-customizer-logo.php:182
+msgid "Site Title Font Size"
+msgstr "Dimensione del font del titolo del sito"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:57
+msgid "Animation"
+msgstr "Animazione"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:111
+msgid "Center Widget Content"
+msgstr "Centra il contenuto del widget"
+
+#: inc/customizer/settings/class-sinatra-customizer-colors.php:111
+msgid "This only applies to entry content area, other links will use the accent color on hover."
+msgstr "Questo si applica solo all'area del contenuto della voce, altri link utilizzeranno il colore in risalto al passaggio del mouse."
+
+#: inc/customizer/settings/class-sinatra-customizer-typography.php:137
+msgid "Headings Default"
+msgstr "Intestazioni predefinite"
+
+#: inc/customizer/settings/class-sinatra-customizer-typography.php:126
+msgid "Headings (H1 - H6)"
+msgstr "Intestazioni (H1 - H6)"
+
+#: inc/customizer/settings/class-sinatra-customizer-typography.php:86
+msgid "Body & Content"
+msgstr "Contenuto body"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:29
+msgid "Proceed to Checkout"
+msgstr "Procedi al pagamento"
+
+#: woocommerce/cart/cart.php:149
+msgid "Update Cart"
+msgstr "Aggiorna il carrello"
+
+#: woocommerce/cart/cart.php:147
+msgid "Continue Shopping"
+msgstr "Continua gli acquisti"
+
+#: woocommerce/cart/cart.php:142
+msgid "Apply Coupon"
+msgstr "Applica coupon"
+
+#: woocommerce/cart/cart.php:142
+msgid "Coupon code"
+msgstr "Codice coupon"
+
+#: woocommerce/cart/cart.php:142
+msgid "Coupon:"
+msgstr "Coupon:"
+
+#: woocommerce/cart/cart.php:121
+msgid "Remove this item"
+msgstr "Rimuovi questo elemento"
+
+#: woocommerce/cart/cart.php:108
+msgid "Subtotal"
+msgstr "Totale parziale"
+
+#: woocommerce/cart/cart.php:75
+msgid "Available on backorder"
+msgstr "Disponibile su ordinazione"
+
+#: woocommerce/cart/cart.php:33
+msgid "Total"
+msgstr "Totale"
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:86
+msgid "Quantity"
+msgstr "Quantità"
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:50
+msgid "Product"
+msgstr "Prodotto"
+
+#: woocommerce/cart/header-widget/empty.php:14
+msgid "No products in the cart."
+msgstr "Nessun prodotto nel carrello."
+
+#. translators: %s is the cart subtotal.
+#: woocommerce/cart/header-widget/header.php:28
+msgid "Subtotal: %s"
+msgstr "Subtotale: %s"
+
+#. translators: %s: the number of cart items;
+#: woocommerce/cart/header-widget/header.php:21
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s elemento"
+msgstr[1] "%s elementi"
+
+#. translators: %s is cart item title.
+#: woocommerce/cart/header-widget/content.php:59
+#: woocommerce/cart/header-widget/content.php:62
+msgid "Remove %s from cart"
+msgstr "Rimuovi %s dal carrello"
+
+#: woocommerce/cart/header-widget/buttons.php:20
+msgid "Checkout"
+msgstr "Pagamento"
+
+#: woocommerce/cart/header-widget/buttons.php:16
+msgid "View Cart"
+msgstr "Visualizza il carrello"
+
+#: woocommerce/cart/cross-sells.php:28
+msgid "You may be interested in"
+msgstr "Ti potrebbe interessare anche"
+
+#: woocommerce/checkout/form-checkout.php:50
+msgid "Your order"
+msgstr "Il tuo ordine"
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr "Devi essere connesso per effettuare il pagamento."
+
+#: woocommerce/single-product/rating.php:41
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] "%s recensione"
+msgstr[1] "%s recensioni"
+
+#: woocommerce/single-product/meta.php:39
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Tag:"
+msgstr[1] "Tag:"
+
+#: woocommerce/single-product/meta.php:37
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Categoria:"
+msgstr[1] "Categorie:"
+
+#: woocommerce/single-product/meta.php:33
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce/single-product/meta.php:33
+msgid "SKU:"
+msgstr "SKU:"
+
+#: woocommerce/product-searchform.php:30
+msgctxt "submit button"
+msgid "Search"
+msgstr "Ricerca"
+
+#: woocommerce/product-searchform.php:29
+msgid "Search products&hellip;"
+msgstr "Cerca i prodotti&hellip;"
+
+#: comments.php:92
+msgid "Write a comment&hellip;"
+msgstr "Scrivi un commento&hellip;"
+
+#: comments.php:90
+msgid "Log out?"
+msgstr "Vuoi uscire?"
+
+#: comments.php:90
+msgid "Log out of this account"
+msgstr "Esci dall'account"
+
+#: comments.php:90
+msgid "Logged in as"
+msgstr "Hai effettuato l'accesso come"
+
+#. translators: %1$s opening anchor tag, %2$s closing anchor tag
+#: comments.php:89
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr "Devi avere %1$seffettuato l'accesso%2$s per pubblicare un commento."
+
+#: comments.php:79
+msgid "Previous"
+msgstr "Precedente"
+
+#: comments.php:73
+msgid "Comments are closed"
+msgstr "I commenti sono chiusi"
+
+#: comments.php:63
+msgid "Reply"
+msgstr "Risposta"
+
+#: comments.php:49
+msgid "No comments yet. Why don&rsquo;t you start the discussion?"
+msgstr "Ancora nessun commento. Perché non inizi una discussione?"
+
+#. translators: %s Comment number
+#: comments.php:37
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s commento"
+msgstr[1] "%s commenti"
+
+#: inc/compatibility/woocommerce/class-sinatra-woocommerce.php:836
+msgid "Shipping"
+msgstr "Spedizione"
+
+#: inc/compatibility/woocommerce/class-sinatra-woocommerce.php:821
+msgid "Payment"
+msgstr "Pagamento"
+
+#: inc/compatibility/woocommerce/class-sinatra-woocommerce.php:608
+msgid "Widgets in this area are displayed on WooCommerce Product pages."
+msgstr "I widget in quest'area verranno visualizzati nelle pagine dei prodotti WooCommerce."
+
+#: inc/compatibility/woocommerce/class-sinatra-woocommerce.php:606
+msgid "Product Sidebar"
+msgstr "Barra laterale prodotto"
+
+#: inc/compatibility/woocommerce/class-sinatra-woocommerce.php:592
+msgid "Widgets in this area are displayed on WooCommerce pages except Product pages."
+msgstr "I widget in quest'area verranno visualizzati nelle pagine WooCommerce tranne nelle pagine dei prodotti."
+
+#: inc/compatibility/woocommerce/class-sinatra-woocommerce.php:590
+msgid "WooCommerce Sidebar"
+msgstr "Barra laterale di WooCommerce"
+
+#. translators: %s is category count
+#: inc/compatibility/woocommerce/woocommerce-functions.php:267
+msgid "%s product"
+msgid_plural "%s products"
+msgstr[0] "%s prodotto"
+msgstr[1] "%s prodotti"
+
+#: inc/compatibility/woocommerce/woocommerce-functions.php:193
+msgid "Return to Shop"
+msgstr "Ritorna al negozio"
+
+#: inc/compatibility/woocommerce/woocommerce-functions.php:101
+msgid "Sold Out"
+msgstr "Esaurito"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-widget-cart.php:35
+msgid "Displays WooCommerce cart."
+msgstr "Mostra il carrello WooCommerce."
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-widget-cart.php:34
+msgid "Cart"
+msgstr "Carrello"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:388
+msgid "Choose default sidebar position layout for product pages. You can change this setting per product via metabox settings."
+msgstr "Scegli il layout per la posizione della barra laterale predefinita per le pagine prodotto. Puoi modificare questa impostazione tramite le impostazioni del metabox."
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:387
+msgid "WooCommerce - Single Product"
+msgstr "Prodotto singolo WooCommerce"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:371
+msgid "Choose default sidebar position for cart, checkout and catalog pages. You can change this setting per page via metabox settings."
+msgstr "Scegli la posizione predefinita della barra laterale per le pagine del carrello, del pagamento e del catalogo. Puoi modificare questa impostazione per pagina tramite le impostazioni del metabox."
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:370
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:348
+msgid "How many rows of cross-sell products should be shown?"
+msgstr "Quante righe di prodotti cross-selling vuoi mostrate?"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:347
+msgid "Cross-Sell Products Rows"
+msgstr "Righe prodotti di vendita incrociata"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:335
+msgid "Display linked cross-sell products on cart page."
+msgstr "Mostra i prodotti di cross-selling collegati nella pagina del carrello."
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:334
+msgid "Cross-Sell Products"
+msgstr "Prodotti di vendita incrociata"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:313
+msgid "How many rows of up-sell products should be shown?"
+msgstr "Quante righe di prodotti up-sell vuoi mostrate?"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:312
+msgid "Up-Sell Products Rows"
+msgstr "Prodotti più venduti"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:291
+msgid "How many up-sell products should be shown per row?"
+msgstr "Quante righe di prodotti di vendita incrociata dovrebbero essere mostrate per riga?"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:290
+msgid "Up-Sell Products Columns"
+msgstr "Colonne di prodotti di vendita incrociata"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:278
+msgid "Display linked upsell products."
+msgstr "Mostra i prodotti upsell collegati."
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:277
+msgid "Up-Sell Products"
+msgstr "Prodotti di vendita incrociata"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:256
+msgid "How many rows of related products should be shown?"
+msgstr "Quante righe di prodotti correlati vuoi mostrare?"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:255
+msgid "Related Products Rows"
+msgstr "Righe dei prodotti correlati"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:234
+msgid "How many related products should be shown per row?"
+msgstr "Quante righe di prodotti correlati vuoi mostrare in ogni riga?"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:233
+msgid "Related Products Columns"
+msgstr "Colonne dei prodotti correlati"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:221
+msgid "Display related products."
+msgstr "Visualizza prodotti correlati."
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:220
+#: inc/compatibility/woocommerce/class-sinatra-woocommerce.php:945
+msgid "Related Products"
+msgstr "Prodotti correlati"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:208
+msgid "Enable left and right arrows on product gallery slider."
+msgstr "Abilita le frecce sinistra e destra sullo slider della galleria prodotti."
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:207
+msgid "Slider Arrows"
+msgstr "Frecce slider"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:195
+msgid "Open product gallery images in lightbox."
+msgstr "Apri le immagini della galleria prodotti nel lightbox."
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:194
+msgid "Gallery Lightbox"
+msgstr "Galleria lightbox"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:182
+msgid "Enable zoom effect when hovering product gallery."
+msgstr "Abilita l'effetto zoom quando passi con il mouse sulla galleria dei prodotti."
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:181
+msgid "Gallery Zoom"
+msgstr "Galleria Zoom"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:170
+msgid "Single Product"
+msgstr "Prodotto singolo"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:162
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:80
+msgid "Price"
+msgstr "Prezzo"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:161
+msgid "Ratings"
+msgstr "Valutazioni"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:158
+msgid "Set order and visibility for product details."
+msgstr "Imposta l'ordine e la visibilità per i dettagli del prodotto."
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:157
+msgid "Product details"
+msgstr "Dettagli del prodotto"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:137
+msgid "Add custom text for the product sale badge."
+msgstr "Aggiungi testo personalizzato per il badge in offerta del prodotto."
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:136
+msgid "Sale badge text"
+msgstr "Testo del badge in offerta"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:125
+msgid "Show text"
+msgstr "Mostra il testo"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:124
+msgid "Show percentage"
+msgstr "Mostra la percentuale"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:123
+msgid "Hide badge"
+msgstr "Nascondi badge"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:121
+msgid "Choose what to display on the product sale badge."
+msgstr "Scegli cosa mostrare sul badge del prodotto in offerta."
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:120
+msgid "Product sale badge"
+msgstr "Badge prodotto in offerta"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:108
+msgid "Image Swap"
+msgstr "Scambia immagine"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:107
+msgid "No Effect"
+msgstr "Nessun effetto"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:105
+msgid "Effect for product image on hover"
+msgstr "Effetto per l'immagine del prodotto al passaggio del mouse"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:104
+msgid "Product image hover"
+msgstr "Immagine del prodotto al passaggio del mouse"
+
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:53
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:138
+msgid "Sale!"
+msgstr "Offerta!"
+
+#: inc/compatibility/class-sinatra-jetpack.php:112
+msgid "Load More"
+msgstr "Carica altro"
+
+#: inc/compatibility/class-sinatra-jetpack.php:101
+msgid "Proudly powered by WordPress"
+msgstr "Proudly powered by WordPress"
+
+#. translators: %s WordPress version
+#: inc/compatibility/back-compat.php:59
+msgid "Sinatra theme requires at least WordPress version 4.7. You are running version %s. Please upgrade your WordPress and try again."
+msgstr "Il tema Sinatra richiede almeno la versione 4.7 di WordPress. La tua versione è %s. Aggiorna WordPress e riprova."
+
+#. translators: %s WordPress version
+#: inc/compatibility/back-compat.php:46 inc/compatibility/back-compat.php:74
+msgid "Sinatra theme requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Il tema Sinatra richiede almeno la versione 4.7 di WordPress. La tua versione è %s. Aggiorna e riprova."
+
+#: inc/compatibility/class-sinatra-endurance.php:387
+msgid "Back"
+msgstr "Indietro"
+
+#: inc/compatibility/class-sinatra-endurance.php:386 comments.php:80
+msgid "Next"
+msgstr "Successivo"
+
+#: inc/compatibility/class-sinatra-endurance.php:385
+msgid "End Tour"
+msgstr "Concludi il tour"
+
+#: inc/compatibility/class-sinatra-endurance.php:317
+msgid "Done for now? Save, preview, publish or schedule when you want to publish the latest edits to your site. Or, close the customizer to go to your WordPress dashboard to modify your website&rsquo;s settings or preferences. "
+msgstr "Hai finito? Salva, visualizza in anteprima, pubblica o programma quando vuoi pubblicare le ultime modifiche sul tuo sito. Oppure chiudi il personalizzatore per accedere alla bacheca di WordPress e modificare le impostazioni o le preferenze del tuo sito web. "
+
+#: inc/compatibility/class-sinatra-endurance.php:316
+msgid "Save, preview, publish or exit"
+msgstr "Salva, anteprima, pubblica o esci"
+
+#: inc/compatibility/class-sinatra-endurance.php:300
+msgid "Customize the look and feel of your blog and introduce yourself to your viewers, customers or the world."
+msgstr "Personalizza l'aspetto del tuo blog e presentati ai tuoi visitatori, clienti o al mondo."
+
+#: inc/compatibility/class-sinatra-endurance.php:299
+msgid "Change your blog layout or location"
+msgstr "Cambia il layout o la posizione del tuo blog"
+
+#: inc/compatibility/class-sinatra-endurance.php:282
+msgid "Give your site a personalized look. Here you can change your site layout, colors, fonts and more."
+msgstr "Dai al tuo sito un aspetto personalizzato. Qui puoi modificare il layout del tuo sito, i colori, i font e altro ancora."
+
+#: inc/compatibility/class-sinatra-endurance.php:281
+msgid "Customize your design"
+msgstr "Personalizza il tuo design"
+
+#: inc/compatibility/class-sinatra-endurance.php:263
+msgid "Your website design and theme"
+msgstr "Il design e il tema del tuo sito web"
+
+#: inc/compatibility/class-sinatra-endurance.php:245
+msgid "Welcome to your WordPress Site! Let us give you a quick overview to help you customize your website&rsquo;s design. Or, come back to this tour at any time in the &ldquo;Help&rdquo; tab."
+msgstr "Benvenuto nel tuo sito WordPress! Ecco una rapida panoramica per aiutarti a personalizzare il design del tuo sito web. Puoi riprendere questo tour in qualsiasi momento andando nella scheda Aiuto."
+
+#: inc/compatibility/class-sinatra-endurance.php:164
+msgid "Customizer Guide"
+msgstr "Guida alla personalizzazione"
+
+#: inc/compatibility/class-sinatra-endurance.php:162
+msgid "WordPress Customizer Tutorial"
+msgstr "Tutorial sulla personalizzazione di WordPress"
+
+#: inc/compatibility/class-sinatra-endurance.php:139
+msgid "Sinatra Theme Guide"
+msgstr "Guida al tema Sinatra"
+
+#: inc/compatibility/class-sinatra-endurance.php:119
+msgid "Start Tour"
+msgstr "Inizia il tour"
+
+#: inc/compatibility/class-sinatra-endurance.php:116
+msgid "Take a Tour"
+msgstr "Fai un tour"
+
+#: inc/compatibility/class-sinatra-endurance.php:98
+msgid "Help"
+msgstr "Aiuto"
+
+#: inc/compatibility/socialsnap/socialsnap-functions.php:26
+msgid "Share"
+msgid_plural "Shares"
+msgstr[0] "Condivisione"
+msgstr[1] "Condivisioni"
+
+#: inc/compatibility/class-sinatra-beaver-themer.php:184
+msgid "After Single Content"
+msgstr "Dopo il contenuto singolo"
+
+#: inc/compatibility/class-sinatra-beaver-themer.php:183
+msgid "Before Single Content"
+msgstr "Prima del contenuto singolo"
+
+#: inc/compatibility/class-sinatra-beaver-themer.php:182
+msgid "After Comments"
+msgstr "Dopo i commenti"
+
+#: inc/compatibility/class-sinatra-beaver-themer.php:181
+msgid "Before Comments"
+msgstr "Prima dei commenti"
+
+#: inc/compatibility/class-sinatra-beaver-themer.php:180
+msgid "After Singular"
+msgstr "Dopo il singolo"
+
+#: inc/compatibility/class-sinatra-beaver-themer.php:179
+msgid "Before Singular"
+msgstr "Prima del singolo"
+
+#: inc/compatibility/class-sinatra-beaver-themer.php:173
+msgid "After Sidebar"
+msgstr "Dopo la barra laterale"
+
+#: inc/compatibility/class-sinatra-beaver-themer.php:172
+msgid "Before Sidebar"
+msgstr "Prima della barra laterale"
+
+#: inc/compatibility/class-sinatra-beaver-themer.php:166
+msgid "After Footer"
+msgstr "Dopo il footer"
+
+#: inc/compatibility/class-sinatra-beaver-themer.php:165
+msgid "Before Footer"
+msgstr "Prima del footer"
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:216
+#: inc/compatibility/class-sinatra-beaver-themer.php:159
+msgid "After Content"
+msgstr "Dopo il contenuto"
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:215
+#: inc/compatibility/class-sinatra-beaver-themer.php:158
+msgid "Before Content"
+msgstr "Prima del contenuto"
+
+#: inc/compatibility/class-sinatra-beaver-themer.php:152
+msgid "After Main"
+msgstr "Dopo il contenuto principale"
+
+#: inc/compatibility/class-sinatra-beaver-themer.php:151
+msgid "Before Main"
+msgstr "Prima del contenuto principale"
+
+#: inc/compatibility/class-sinatra-beaver-themer.php:145
+msgid "After Header"
+msgstr "Dopo l'header"
+
+#: inc/compatibility/class-sinatra-beaver-themer.php:144
+msgid "Before Header"
+msgstr "Prima dell'header"
+
+#: inc/widgets.php:83
+msgid "Widgets in this area are displayed in the fourth footer column."
+msgstr "I widget in quest'area verranno mostrati nella quarta colonna del footer."
+
+#: inc/widgets.php:81
+msgid "Footer 4"
+msgstr "Footer 4"
+
+#: inc/widgets.php:70
+msgid "Widgets in this area are displayed in the third footer column."
+msgstr "I widget in quest'area verranno mostrati nella terza colonna del footer."
+
+#: inc/widgets.php:68
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: inc/widgets.php:57
+msgid "Widgets in this area are displayed in the second footer column."
+msgstr "I widget in quest'area verranno mostrati nella seconda colonna del footer."
+
+#: inc/widgets.php:55
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: inc/widgets.php:44
+msgid "Widgets in this area are displayed in the first footer column."
+msgstr "I widget in quest'area verranno mostrati nella prima colonna del footer."
+
+#: inc/widgets.php:42
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: inc/widgets.php:31
+msgid "Widgets in this area are displayed in the left or right sidebar area based on your Default Sidebar Position settings."
+msgstr "I widget in quest'area vengono visualizzati nell'area della barra laterale sinistra o destra in base alle impostazioni predefinite della posizione della barra laterale."
+
+#: inc/widgets.php:29
+msgid "Default Sidebar"
+msgstr "Barra laterale predefinita"
+
+#: inc/core/class-sinatra-theme-setup.php:116
+msgid "Primary Navigation"
+msgstr "Navigazione principale"
+
+#: inc/core/class-sinatra-fonts.php:431
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: inc/core/class-sinatra-fonts.php:426
+msgid "System Fonts"
+msgstr "Font di sistema"
+
+#: inc/core/class-sinatra-fonts.php:421
+msgid "Standard"
+msgstr "Standard"
+
+#: inc/core/class-sinatra-fonts.php:261
+msgid "Vietnamese"
+msgstr "Vietnamita"
+
+#: inc/core/class-sinatra-fonts.php:260
+msgid "Thai"
+msgstr "Thailandese"
+
+#: inc/core/class-sinatra-fonts.php:259
+msgid "Telugu"
+msgstr "Telugu"
+
+#: inc/core/class-sinatra-fonts.php:258
+msgid "Tamil"
+msgstr "Tamil"
+
+#: inc/core/class-sinatra-fonts.php:257
+msgid "Sinhala"
+msgstr "Singalese"
+
+#: inc/core/class-sinatra-fonts.php:256
+msgid "Oriya"
+msgstr "Oriya"
+
+#: inc/core/class-sinatra-fonts.php:255
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: inc/core/class-sinatra-fonts.php:254
+msgid "Malayalam"
+msgstr "Malayalam"
+
+#: inc/core/class-sinatra-fonts.php:253
+msgid "Latin Extended"
+msgstr "Latino esteso"
+
+#: inc/core/class-sinatra-fonts.php:252
+msgid "Latin"
+msgstr "Latino"
+
+#: inc/core/class-sinatra-fonts.php:251
+msgid "Korean"
+msgstr "Coreano"
+
+#: inc/core/class-sinatra-fonts.php:250
+msgid "Khmer"
+msgstr "Khmer"
+
+#: inc/core/class-sinatra-fonts.php:249
+msgid "Kannada"
+msgstr "Kannada"
+
+#: inc/core/class-sinatra-fonts.php:248
+msgid "Japanese"
+msgstr "Giapponese"
+
+#: inc/core/class-sinatra-fonts.php:247
+msgid "Hebrew"
+msgstr "Ebraico"
+
+#: inc/core/class-sinatra-fonts.php:246
+msgid "Gurmukhi"
+msgstr "Gurmukhi"
+
+#: inc/core/class-sinatra-fonts.php:245
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: inc/core/class-sinatra-fonts.php:244
+msgid "Greek Extended"
+msgstr "Greco esteso"
+
+#: inc/core/class-sinatra-fonts.php:243
+msgid "Greek"
+msgstr "Greco"
+
+#: inc/core/class-sinatra-fonts.php:242
+msgid "Devanagari"
+msgstr "Devanagari"
+
+#: inc/core/class-sinatra-fonts.php:241
+msgid "Cyrillic Extended"
+msgstr "Cirillico esteso"
+
+#: inc/core/class-sinatra-fonts.php:240
+msgid "Cyrillic"
+msgstr "Cirillico"
+
+#: inc/core/class-sinatra-fonts.php:239
+msgid "Chinese (Traditional)"
+msgstr "Cinese (tradizionale)"
+
+#: inc/core/class-sinatra-fonts.php:238
+msgid "Chinese (Simplified)"
+msgstr "Cinese (semplificato)"
+
+#: inc/core/class-sinatra-fonts.php:237
+msgid "Chinese (Hong Kong)"
+msgstr "Cinese (Hong Kong)"
+
+#: inc/core/class-sinatra-fonts.php:236
+msgid "Bengali"
+msgstr "Bengalese"
+
+#: inc/core/class-sinatra-fonts.php:235
+msgid "Arabic"
+msgstr "Arabo"
+
+#: inc/core/class-sinatra-options.php:744
+msgid "Copyright {{the_year}} &mdash; {{site_title}}. All rights reserved. {{theme_link}}"
+msgstr "Copyright {{the_year}} &mdash; {{site_title}}. Tutti i diritti riservati. {{theme_link}}"
+
+#: inc/core/class-sinatra-options.php:702
+msgid "Example Button"
+msgstr "Pulsante di esempio"
+
+#: inc/core/class-sinatra-options.php:701
+msgid "This is an example of <em>Pre Footer</em> section in Sinatra."
+msgstr "Questo è un esempio della sezione <em>Pre Footer</em> di Sinatra."
+
+#: inc/core/class-sinatra-options.php:304
+msgid "This is a placeholder text widget in Top Bar section."
+msgstr "Questo è un widget di testo segnaposto nella sezione della barra superiore."
+
+#: inc/core/class-sinatra-enqueue-scripts.php:124
+msgid "Hide Comments"
+msgstr "Nascondi i commenti"
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget-button.php:154
+msgid "Additional class"
+msgstr "Classi aggiuntive"
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget-button.php:128
+msgid "New Tab"
+msgstr "Nuova scheda"
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget-button.php:114
+msgid "Same Tab"
+msgstr "Stessa scheda"
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget-button.php:101
+msgid "Open link in"
+msgstr "Apri link in"
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget-button.php:96
+msgid "Button URL"
+msgstr "URL pulsante"
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget-button.php:89
+msgid "URL"
+msgstr "URL"
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget-button.php:61
+msgid "A button with custom link."
+msgstr "Un pulsante con un link personalizzato."
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget-button.php:60
+msgid "Button"
+msgstr "Pulsante"
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget-search.php:52
+msgid "A search form for your site."
+msgstr "Un modulo di ricerca per il tuo sito."
+
+#. translators: %1$s is opening anchor tag, %2$s is a closing anchor tag.
+#: inc/customizer/widgets/class-sinatra-customizer-widget-text.php:65
+msgid "Shortcodes and basic html elements allowed. See the list of %1$savailable dynamic strings%2$s."
+msgstr "Shortcode ed elementi html di base consentiti. Vedi l'elenco delle %1$sstringhe dinamiche disponibili%2$s."
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget-text.php:38
+msgid "Text widget content goes here..."
+msgstr "Il contenuto del testo del widget va qui..."
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget-text.php:33
+msgid "Arbitrary text."
+msgstr "Testo arbitrario."
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget-text.php:32
+#: inc/customizer/widgets/class-sinatra-customizer-widget-button.php:77
+msgid "Text"
+msgstr "Testo"
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget.php:231
+#: inc/compatibility/class-sinatra-endurance.php:388
+msgid "Done"
+msgstr "Fatto"
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget.php:228
+msgid "Delete"
+msgstr "Elimina"
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget.php:207
+msgid "Visibility"
+msgstr "Visibilità"
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget.php:179
+msgid "Widget Location"
+msgstr "Posizione del widget"
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget.php:153
+msgid "Edit widget:"
+msgstr "Modifica widget:"
+
+#. Translators: %1$s - anchor tag start. %2$s anchor tag end.
+#: inc/customizer/widgets/class-sinatra-customizer-widget-nav.php:82
+msgid "No menus found: %1$sCreate a new menu?%2$s"
+msgstr "Nessun menu trovato: %1$sVuoi creare un nuovo menu?%2$s"
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget-nav.php:66
+msgctxt "Widget"
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Seleziona &mdash;"
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget-nav.php:62
+msgctxt "Widget"
+msgid "Select Menu:"
+msgstr "Seleziona il menu:"
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget-nav.php:42
+msgid "Add a navigation menu."
+msgstr "Aggiungi un menu di navigazione."
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget-nav.php:41
+msgid "Navigation"
+msgstr "Navigazione"
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget-socials.php:44
+msgid "Links to your social media profiles."
+msgstr "Link ai tuoi profili social media."
+
+#: inc/customizer/widgets/class-sinatra-customizer-widget-socials.php:43
+msgid "Social Links"
+msgstr "Link ai social media"
+
+#: inc/customizer/class-sinatra-customizer.php:540
+msgid "Select a category"
+msgstr "Seleziona una categoria"
+
+#: inc/customizer/class-sinatra-customizer.php:182
+msgid "A tagline is a short phrase, or sentence, used to convey the essence of the site."
+msgstr "Un motto è una frase breve o frase usata per trasmettere l'essenza del sito."
+
+#: inc/customizer/class-sinatra-customizer.php:177
+msgid "Enter the name of your site here."
+msgstr "Inserisci qui il nome del tuo sito."
+
+#: inc/customizer/class-sinatra-customizer.php:160
+msgid "Upload your logo image here."
+msgstr "Carica qui l'immagine del tuo logo."
+
+#: inc/customizer/class-sinatra-customizer.php:157
+msgid "Logos &amp; Site Title"
+msgstr "Logo e titolo del sito"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:169
+msgid "Oblique"
+msgstr "Obliquo"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:168
+msgid "Italic"
+msgstr "Corsivo"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:167
+msgid "Normal"
+msgstr "Normale"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:162
+msgid "Line Through"
+msgstr "Barrato"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:161
+msgid "Overline"
+msgstr "Barrato in alto"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:155
+msgid "Capitalize"
+msgstr "Iniziale maiuscola"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:154
+msgid "Lowercase"
+msgstr "Minuscolo"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:153
+msgid "Uppercase"
+msgstr "Maiuscolo"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:148
+msgid "Black 900 Italic"
+msgstr "Nero corsivo 900"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:147
+msgid "Black 900"
+msgstr "Nero 900"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:146
+msgid "Extra-Bold 800 Italic"
+msgstr "Corsivo grassetto accentuato 800"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:145
+msgid "Extra-Bold 800"
+msgstr "Grassetto accentuato 800"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:144
+msgid "Bold 700 Italic"
+msgstr "Grassetto corsivo 700"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:143
+msgid "Bold 700"
+msgstr "Grassetto 700"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:142
+msgid "Semi-Bold 600 Italic"
+msgstr "Semigrassetto corsivo 600"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:141
+msgid "Semi-Bold 600"
+msgstr "Semigrassetto 600"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:140
+msgid "Medium 500 Italic"
+msgstr "Medio corsivo 500"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:139
+msgid "Medium 500"
+msgstr "Medio 500"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:138
+msgid "Normal 400 Italic"
+msgstr "Normale corsivo 400"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:137
+msgid "Normal 400"
+msgstr "Normale 400"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:136
+msgid "Light 300 Italic"
+msgstr "Chiaro corsivo 300"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:135
+msgid "Light 300"
+msgstr "Chiaro 300"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:134
+msgid "Extra-Thin 200 Italic"
+msgstr "Extra sottile corsivo 200"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:133
+msgid "Extra-Thin 200"
+msgstr "Extra sottile 200"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:132
+msgid "Thin 100 Italic"
+msgstr "Sottile corsivo 100"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:131
+msgid "Thin 100"
+msgstr "Sottile 100"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:128
+msgid "Default System Font"
+msgstr "Font di sistema predefinito"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:126
+msgid "Letter Spacing"
+msgstr "Spaziatura tra i caratteri"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:125
+msgid "Line Height"
+msgstr "Interlinea"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:124
+msgid "Decoration"
+msgstr "Decorazione"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:123
+msgid "Transform"
+msgstr "Trasforma"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:121
+msgid "Size"
+msgstr "Dimensione"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:120
+msgid "Weight"
+msgstr "Peso"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:119
+msgid "Languages"
+msgstr "Lingue"
+
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:118
+msgid "Font Family"
+msgstr "Famiglia di font"
+
+#: inc/customizer/controls/widget/class-sinatra-customizer-control-widget.php:160
+msgid "Add Widget"
+msgstr "Aggiungi widget"
+
+#: inc/customizer/controls/spacing/class-sinatra-customizer-control-spacing.php:45
+msgid "Link values"
+msgstr "Valori del link"
+
+#: inc/customizer/controls/info/class-sinatra-customizer-control-info.php:103
+msgid "Learn More"
+msgstr "Approfondisci"
+
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:427
+msgid "Overlay Color"
+msgstr "Colore di sovrapposizione"
+
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:134
+msgid "Dashed"
+msgstr "Tratteggiato"
+
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:133
+msgid "Dotted"
+msgstr "Punteggiato"
+
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:132
+msgid "Solid"
+msgstr "Solido"
+
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:121
+#: inc/customizer/controls/alignment/class-sinatra-customizer-control-alignment.php:52
+msgid "Bottom Right"
+msgstr "In basso a destra"
+
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:120
+#: inc/customizer/controls/alignment/class-sinatra-customizer-control-alignment.php:50
+msgid "Bottom Left"
+msgstr "In basso a sinistra"
+
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:119
+msgid "Bottom Center"
+msgstr "Centrato in basso"
+
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:118
+#: inc/customizer/controls/alignment/class-sinatra-customizer-control-alignment.php:46
+msgid "Top Right"
+msgstr "In alto a destra"
+
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:117
+#: inc/customizer/controls/alignment/class-sinatra-customizer-control-alignment.php:44
+msgid "Top Left"
+msgstr "In alto a sinistra"
+
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:116
+msgid "Top Center"
+msgstr "Centrato in alto"
+
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:115
+msgid "Center Right"
+msgstr "Centrato a destra"
+
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:114
+msgid "Center Left"
+msgstr "Centrato a sinistra"
+
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:113
+msgid "Center Center"
+msgstr "Centrato in mezzo"
+
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:88
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:111
+msgid "Position"
+msgstr "Posizione"
+
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:110
+msgid "Angle"
+msgstr "Angolo"
+
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:109
+msgid "Radial"
+msgstr "Radiale"
+
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:108
+msgid "Linear"
+msgstr "Lineare"
+
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:106
+msgid "Location"
+msgstr "Luogo"
+
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:105
+msgid "Color 2"
+msgstr "Colore 2"
+
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:104
+msgid "Color 1"
+msgstr "Colore 1"
+
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:102
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:107
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/customizer/controls/class-sinatra-customizer-control.php:64
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:237
+msgid "Mobile"
+msgstr "Mobile"
+
+#: inc/customizer/controls/class-sinatra-customizer-control.php:60
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:233
+msgid "Tablet"
+msgstr "Tablet"
+
+#: inc/customizer/controls/class-sinatra-customizer-control.php:56
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:229
+msgid "Desktop"
+msgstr "Desktop"
+
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:224
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:419
+msgid "Fixed"
+msgstr "Fisso"
+
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:221
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:416
+msgid "Scroll"
+msgstr "Scorri"
+
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:218
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:413
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:127
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:130
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:152
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:159
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:166
+msgid "Inherit"
+msgstr "Eredita"
+
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:215
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:410
+msgid "Background Attachment"
+msgstr "Sfondo fisso o scorrevole"
+
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:208
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:403
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:205
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:400
+msgid "Contain"
+msgstr "Contieni"
+
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:202
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:397
+msgid "Cover"
+msgstr "Copertina"
+
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:199
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:394
+msgid "Background Size"
+msgstr "Dimensione dello sfondo"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:60
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:178
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:372
+msgid "Vertical"
+msgstr "Verticale"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:61
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:160
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:353
+msgid "Horizontal"
+msgstr "Orizzontale"
+
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:157
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:350
+msgid "Background Position"
+msgstr "Posizione dello sfondo"
+
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:150
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:343
+msgid "Repeat Vertically"
+msgstr "Ripeti verticalmente"
+
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:149
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:342
+msgid "Repeat Horizontally"
+msgstr "Ripeti orizzontalmente"
+
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:148
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:341
+msgid "Repeat All"
+msgstr "Ripeti tutto"
+
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:147
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:340
+msgid "No Repeat"
+msgstr "Non ripetere"
+
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:125
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:321
+#: woocommerce/cart/cart.php:114
+msgid "Remove"
+msgstr "Elimina"
+
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:63
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:129
+msgid "Use This Image"
+msgstr "Usa questa immagine"
+
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:62
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:128
+msgid "Select Image"
+msgstr "Seleziona immagine"
+
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:61
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:131
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:127
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:326
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:117
+msgid "Advanced"
+msgstr "Avanzate"
+
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:60
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:126
+msgid "Less Settings"
+msgstr "Meno impostazioni"
+
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:59
+#: inc/customizer/controls/background/class-sinatra-customizer-control-background.php:120
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:125
+#: inc/customizer/controls/design-options/class-sinatra-customizer-control-design-options.php:314
+msgid "No image selected"
+msgstr "Nessuna immagine selezionata"
+
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:183
+msgid "End"
+msgstr "Fine"
+
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:182
+msgid "Start"
+msgstr "Inizio"
+
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:146
+msgid "Click the Add Widget button to add available widgets to your Copyright Bar."
+msgstr "Fai clic sul pulsante aggiungi widget per aggiungere i widget disponibili alla barra del copyright."
+
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:145
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:164
+msgid "Copyright Bar Widgets"
+msgstr "Widget della barra del copyright"
+
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:121
+msgid "Devices where Copyright Bar is displayed."
+msgstr "Dispositivi nei quali la barra del copyright viene visualizzata."
+
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:101
+msgid "Fullwidth Separator"
+msgstr "Separatore layout a larghezza piena"
+
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:100
+msgid "Contained Separator"
+msgstr "Separatore layout racchiuso"
+
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:97
+msgid "Select type of Copyright Separator."
+msgstr "Seleziona il tipo di separatore del copyright."
+
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:96
+msgid "Copyright Separator"
+msgstr "Separatore del copyright"
+
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:76
+msgid "Inline"
+msgstr "In linea"
+
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:68
+msgid "Choose your site&rsquo;s copyright widgets layout."
+msgstr "Scegli il layout dei widget del copyright del tuo sito."
+
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:67
+msgid "Copyright Layout"
+msgstr "Layout del copyright"
+
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:55
+msgid "Enable Copyright Bar"
+msgstr "Abilita la barra del copyright"
+
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:44
+msgid "Copyright Bar"
+msgstr "Barra del copyright"
+
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:149
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:177
+msgid "Rounded"
+msgstr "Arrotondato"
+
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:118
+msgid "Click the Add Widget button to add available widgets to your Top Bar."
+msgstr "Fare clic sul pulsante aggiungi widget per aggiungere i widget disponibili alla barra superiore."
+
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:117
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:136
+msgid "Top Bar Widgets"
+msgstr "Widget della barra superiore"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:93
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:93
+msgid "Devices where the Top Bar is displayed."
+msgstr "Dispositivi nei quali viene visualizzata la barra superiore."
+
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:70
+msgid "Stretch the Top Bar container to full width, or match your site&rsquo;s content width."
+msgstr "Allunga il contenitore della barra superiore a larghezza piena o adatta la larghezza al contenuto del tuo sito."
+
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:69
+msgid "Top Bar Width"
+msgstr "Larghezza della barra in alto"
+
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:58
+msgid "Top Bar is a section with widgets located above Main Header area."
+msgstr "La barra superiore è una sezione con widget situata sopra l'area dell'header principale."
+
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:57
+msgid "Enable Top Bar"
+msgstr "Abilita la barra in alto"
+
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:46
+msgid "Top Bar"
+msgstr "Barra in alto"
+
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:172
+msgid "Devices where the button is displayed."
+msgstr "Dispositivi nei quali viene visualizzato il pulsante."
+
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:153
+msgid "A sticky button that allows users to easily return to the top of a page."
+msgstr "Un pulsante fisso che consente agli utenti di tornare facilmente all'inizio di una pagina."
+
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:152
+msgid "Enable Scroll Top Button"
+msgstr "Abilita pulsante Torna in alto"
+
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:141
+msgid "Scroll Top Button"
+msgstr "Pulsante Torna in alto"
+
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:112
+msgid "Devices where Page Preloader is displayed."
+msgstr "Dispositivi nei quali viene visualizzato il precaricamento delle pagine."
+
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:93
+msgid "Show animation until page is fully loaded."
+msgstr "Mostra l'animazione fino a quando la pagina non è completamente caricata."
+
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:92
+msgid "Enable Page Preloader"
+msgstr "Abilita il precaricamento della pagina"
+
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:81
+msgid "Page Preloader"
+msgstr "Precaricamento della pagina"
+
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:70
+msgid "Custom design for checkboxes and radio buttons."
+msgstr "Design personalizzato per checkbox e pulsanti radio."
+
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:69
+msgid "Custom Form Styles"
+msgstr "Stili personalizzati dei moduli"
+
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:58
+msgid "Add structured data to your content."
+msgstr "Aggiungi dati strutturati ai tuoi contenuti."
+
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:57
+msgid "Schema Markup"
+msgstr "Schema Markup"
+
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:46
+msgid "Misc Settings"
+msgstr "Impostazioni varie"
+
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:309
+msgid "Choose your single post content font size."
+msgstr "Scegli la dimensione del font del tuo articolo singolo."
+
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:308
+msgid "Post Content Font Size"
+msgstr "Dimensione del font del contenuto dell'articolo"
+
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:278
+msgid "Show Toggle Comments"
+msgstr "Mostra/Nascondi commenti"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:144
+msgid "Show Post Categories"
+msgstr "Mostra le categorie dell'articolo"
+
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:171
+msgid "Choose the width (in px) for narrow container on single posts."
+msgstr "Scegli la larghezza (in px) per il contenitore stretto negli articoli singoli."
+
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:170
+msgid "Narrow Container Width"
+msgstr "Larghezza massima del contenitore stretto"
+
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:152
+msgid "Narrow Width"
+msgstr "Larghezza stretta"
+
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:148
+msgid "Narrow content width or match your site&rsquo;s Content Width (defined in General Settings &raquo; Layout)."
+msgstr "Riduci la larghezza del contenuto o adatta la larghezza al contenuto del tuo sito (definita in Impostazioni generali &raquo; Layout)."
+
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:250
+msgid "Choose your page title font size."
+msgstr "Scegli la dimensione del font del titolo della pagina."
+
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:249
+msgid "Page Title Font Size"
+msgstr "Dimensione del font del titolo della pagina"
+
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:72
+msgid "Centered"
+msgstr "Centrato"
+
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:57
+msgid "Enable Breadcrumbs"
+msgstr "Abilita i breadcrumb"
+
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:57
+msgid "Enable Page Header"
+msgstr "Abilita l'header della pagina"
+
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:46
+msgid "Page Header"
+msgstr "Header della pagina"
+
+#: inc/customizer/settings/class-sinatra-customizer-typography.php:194
+msgid "Adds a separate font for styling of &lsaquo;em&rsaquo; tags, so you can create stylish typographic elements."
+msgstr "Aggiunge un font separato per lo stile dei&lsaquo;em&rsaquo; tag, in modo da creare elementi tipografici eleganti."
+
+#: inc/customizer/settings/class-sinatra-customizer-typography.php:193
+msgid "Heading Emphasized Text"
+msgstr "Enfatizza il testo dell'intestazione"
+
+#. translators: %s Heading size
+#: inc/customizer/settings/class-sinatra-customizer-typography.php:164
+msgid "H%s"
+msgstr "H%s"
+
+#: inc/customizer/settings/class-sinatra-customizer-typography.php:97
+msgid "Body Typography"
+msgstr "Corpo del testo"
+
+#: inc/customizer/settings/class-sinatra-customizer-typography.php:75
+msgid "Enable/Disable anti-aliasing font smoothing."
+msgstr "Abilita/Disabilita la morbidezza dell'anti-aliasing dei font."
+
+#: inc/customizer/settings/class-sinatra-customizer-typography.php:74
+msgid "Font Smoothing"
+msgstr "Morbidezza del font"
+
+#: inc/customizer/settings/class-sinatra-customizer-typography.php:58
+msgid "REM base of the root (html) element."
+msgstr "REM base dell'elemento root ( HTML)."
+
+#: inc/customizer/settings/class-sinatra-customizer-typography.php:57
+msgid "Base Font Size"
+msgstr "Dimensione del font base"
+
+#: inc/customizer/settings/class-sinatra-customizer-typography.php:46
+msgid "Base Typography"
+msgstr "Tipografia base"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:292
+msgid "Choose your widget title font size."
+msgstr "Scegli la dimensione del font del titolo del widget."
+
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:215
+msgid "Widget Title Color"
+msgstr "Colore del titolo del Widget"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:136
+msgid "Devices where Main Footer is displayed."
+msgstr "Dispositivi nei quali viene visualizzato il footer principale."
+
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:69
+msgid "Choose your site&rsquo;s footer column layout."
+msgstr "Scegli il layout della colonna del footer del tuo sito."
+
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:68
+msgid "Column Layout"
+msgstr "Layout della colonna"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:57
+msgid "Enable Main Footer"
+msgstr "Abilita il footer principale"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:46
+msgid "Main Footer"
+msgstr "Footer principale"
+
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:347
+msgid "Display posts from selected category only. Leave empty to include all."
+msgstr "Visualizza solo gli articoli della categoria selezionata. Lascia vuoto per includerle tutte."
+
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:346
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:163
+msgid "Category"
+msgstr "Categoria"
+
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:308
+msgid "Set the number of visible posts."
+msgstr "Numero dgli articoli visibili"
+
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:307
+msgid "Post Number"
+msgstr "Numero di articoli"
+
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:284
+msgid "Post Settings"
+msgstr "Impostazioni dell'articolo"
+
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:248
+msgid "Post Details"
+msgstr "Dettagli dell'articolo"
+
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:214
+msgid "Overlay 2"
+msgstr "Overlay 2"
+
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:213
+msgid "Overlay 1"
+msgstr "Overlay 1"
+
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:210
+msgid "Choose hero overlay style."
+msgstr "Scegli lo stile di sovrapposizione dell'hero."
+
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:209
+msgid "Overlay"
+msgstr "Overlay"
+
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:177
+msgid "Set the height of the container."
+msgstr "Imposta l'altezza del contenitore."
+
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:176
+msgid "Height"
+msgstr "Altezza"
+
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:144
+msgid "Stretch the container to full width, or match your site&rsquo;s content width."
+msgstr "Allunga il contenitore a tutta larghezza, oppure fa coincidere la larghezza del contenuto del sito con quella dell&rsquo;immagine."
+
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:143
+msgid "Width"
+msgstr "Larghezza"
+
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:69
+msgid "Devices where the Hero is displayed."
+msgstr "Dispositivi nei quali viene visualizzato l'hero."
+
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:57
+msgid "Enable Hero Section"
+msgstr "Abilita la sezione Hero"
+
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:46
+msgid "Hero"
+msgstr "Hero"
+
+#: inc/customizer/settings/class-sinatra-customizer-layout.php:77
+msgid "Change your site&rsquo;s main container width."
+msgstr "Modifica la larghezza del contenitore principale del tuo sito."
+
+#: inc/customizer/settings/class-sinatra-customizer-layout.php:59
+msgid "Choose your site&rsquo;s main layout."
+msgstr "Scegli il layout principale del tuo sito."
+
+#: inc/customizer/settings/class-sinatra-customizer-layout.php:58
+msgid "Site Layout"
+msgstr "Layout del sito"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:56
+#: inc/customizer/settings/class-sinatra-customizer-layout.php:46
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:57
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/customizer/settings/class-sinatra-customizer-colors.php:138
+msgid "Only used if Site Layout is Boxed or Boxed Content."
+msgstr "Utilizzato solo se il layout del sito è Boxed o Contenuto Boxed."
+
+#: inc/customizer/settings/class-sinatra-customizer-colors.php:137
+msgid "Boxed Content - Background Color"
+msgstr "Colore di sfondo dei contenuti boxed"
+
+#: inc/customizer/settings/class-sinatra-customizer-colors.php:124
+msgid "Headings Color"
+msgstr "Colore delle intestazioni"
+
+#: inc/customizer/settings/class-sinatra-customizer-colors.php:72
+msgid "Body Background"
+msgstr "Sfondo del corpo del testo"
+
+#: inc/customizer/settings/class-sinatra-customizer-colors.php:58
+msgid "The accent color is used subtly throughout your site, to call attention to key elements."
+msgstr "Il colore in risalto viene usato in modo sottile in tutto il tuo sito, per richiamare l'attenzione sugli elementi chiave."
+
+#: inc/customizer/settings/class-sinatra-customizer-colors.php:57
+msgid "Accent Color"
+msgstr "Colore in risalto"
+
+#: inc/customizer/settings/class-sinatra-customizer-colors.php:46
+msgid "Base Colors"
+msgstr "Colori base"
+
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:77
+msgid "Posts"
+msgstr "Articoli"
+
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:65
+msgid "404 page"
+msgstr "Pagina 404"
+
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:57
+msgid "Enable Globally"
+msgstr "Abilita globalmente"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:92
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:68
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:135
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:111
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:171
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:92
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:120
+msgid "Device Visibility"
+msgstr "Visibilità del dispositivo"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:154
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:46
+msgid "Transparent Header"
+msgstr "Header trasparente"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:258
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:324
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:307
+msgid "Separator Color"
+msgstr "Colore del separatore"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:225
+msgid "Tagline Color"
+msgstr "Colore del motto"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:163
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:196
+msgid "Slanted"
+msgstr "Inclinato"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:162
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:195
+msgid "Regular"
+msgstr "Normale"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:158
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:191
+msgid "Display a separator line between widgets."
+msgstr "Mostra una linea di separazione tra i widget."
+
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:157
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:190
+msgid "Widgets Separator"
+msgstr "Separatore dei widget"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:99
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:133
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:74
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:142
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:118
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:178
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:99
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:161
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:126
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:189
+msgid "Hide on Mobile and Tablet"
+msgstr "Nascondi su tablet e dispositivi mobili"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:98
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:132
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:73
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:141
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:117
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:177
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:98
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:160
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:125
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:188
+msgid "Hide on Tablet"
+msgstr "Nascondi su tablet"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:97
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:131
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:72
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:140
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:116
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:176
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:97
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:159
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:124
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:187
+msgid "Hide on Mobile"
+msgstr "Nascondi su dispositivo mobile"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:96
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:130
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:71
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:139
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:115
+#: inc/customizer/settings/class-sinatra-customizer-misc.php:175
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:96
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:158
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:123
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:186
+msgid "Show on All Devices"
+msgstr "Mostra su tutti i dispositivi"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:100
+msgid "Click the Add Widget button to add available widgets to your Header. Click the down arrow icon to expand widget options."
+msgstr "Fai clic sul pulsante Aggiungi widget per aggiungere i widget disponibili all'header. Fai clic sull'icona freccia giù per espandere le opzioni del widget."
+
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:99
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:112
+msgid "Header Widgets"
+msgstr "Widget dell'header"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:88
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:147
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:74
+msgid "Full Width"
+msgstr "Larghezza piena"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:87
+#: inc/customizer/settings/class-sinatra-customizer-layout.php:76
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:146
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:147
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:151
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:73
+msgid "Content Width"
+msgstr "Larghezza del contenuto"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:84
+msgid "Stretch the Header container to full width, or match your site&rsquo;s content width."
+msgstr "Allunga il contenitore header a tutta larghezza, oppure adatta la larghezza al contenuto del sito."
+
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:83
+msgid "Header Width"
+msgstr "Larghezza dell'header"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:71
+msgid "Header 3"
+msgstr "Header 3"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:67
+msgid "Header 2"
+msgstr "Header 2"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:63
+msgid "Header 1"
+msgstr "Header 1"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:58
+msgid "Pre-defined positions of header elements, such as logo and navigation."
+msgstr "Posizioni predefinite degli elementi dell'header, ad esempio logo e menu di navigazione."
+
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:57
+msgid "Header Layout"
+msgstr "Layout dell'header"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:46
+msgid "Main Header"
+msgstr "Header principale"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:291
+msgid "Choose your main navigation font size."
+msgstr "Scegli la dimensione del font di navigazione principale."
+
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:164
+msgid "Leave empty to hide the label..."
+msgstr "Lascia vuoto per nascondere l'etichetta..."
+
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:162
+msgid "This text will be displayed next to the mobile menu button."
+msgstr "Questo testo verrà visualizzato accanto al pulsante del menu per i dispositivi mobili."
+
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:161
+msgid "Mobile Menu Button Label"
+msgstr "Etichetta del pulsante del menu per i dispositivi mobili"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:139
+msgid "Choose the breakpoint (in px) when to show the mobile navigation."
+msgstr "Scegli il punto di interruzione (in px) quando mostrare la navigazione per i dispositivi mobili."
+
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:138
+msgid "Mobile Breakpoint"
+msgstr "Punto di interruzione per i dispositivi mobili"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:127
+msgid "Mobile Menu"
+msgstr "Menu dispositivi mobili"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:103
+msgid "Show indicators (arrow icons) on parent menu items that have sub menus."
+msgstr "Mostra gli indicatori (icone delle frecce) sulle voci del menu con sottomenu."
+
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:102
+msgid "Dropdown Indicators"
+msgstr "Indicatori menu a discesa"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:91
+msgid "Sub Menus"
+msgstr "Sottomenu"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:73
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:160
+msgid "Underline"
+msgstr "Sottolinea"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:72
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:161
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:212
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:194
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:99
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:156
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:163
+msgid "None"
+msgstr "Nessuno"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:69
+msgid "Choose menu item hover animation style."
+msgstr "Scegli lo stile di animazione al passaggio del mouse dell'elemento del menu."
+
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:68
+msgid "Hover Animation"
+msgstr "Animazione al passaggio del mouse"
+
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:46
+msgid "Main Navigation"
+msgstr "Navigazione principale"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:430
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:290
+msgid "Font Size"
+msgstr "Dimensione del font"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:372
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:251
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:253
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:319
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:245
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:203
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:302
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:265
+msgid "Width (px)"
+msgstr "Larghezza (px)"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:371
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:250
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:252
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:318
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:244
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:202
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:301
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:264
+msgid "Color"
+msgstr "Colore"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:366
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:245
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:246
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:313
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:239
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:197
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:296
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:259
+msgid "Border"
+msgstr "Bordo"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:337
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:226
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:227
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:293
+#: inc/customizer/settings/class-sinatra-customizer-colors.php:110
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:214
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:173
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:272
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:274
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:230
+msgid "Link Hover Color"
+msgstr "Colore dei link al passaggio del mouse"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:336
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:225
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:226
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:292
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:213
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:172
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:271
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:273
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:229
+msgid "Link Color"
+msgstr "Colore dei link"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:335
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:291
+#: inc/customizer/settings/class-sinatra-customizer-colors.php:97
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:212
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:171
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:270
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:111
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:317
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:484
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:272
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:228
+msgid "Text Color"
+msgstr "Colore del testo"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:331
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:221
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:220
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:287
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:208
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:167
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:266
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:267
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:224
+msgid "Font Color"
+msgstr "Colore del font"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:302
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:201
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:184
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:143
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:195
+msgid "Image"
+msgstr "Immagine"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:301
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:197
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:200
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:183
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:142
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:242
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:242
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:194
+msgid "Gradient"
+msgstr "Gradiente"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:300
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:196
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:199
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:267
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:182
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:141
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:241
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:241
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:193
+msgid "Solid Color"
+msgstr "Tinta unita"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:296
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:192
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:193
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:263
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:178
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:137
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:237
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:237
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:189
+msgid "Background"
+msgstr "Sfondo"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:273
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:181
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:181
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:160
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:119
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:219
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:219
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:166
+msgid "Design Options"
+msgstr "Opzioni design"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:250
+msgid "Open link in new tab?"
+msgstr "Vuoi aprire il link in una nuova scheda?"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:226
+msgid "Link for the CTA button."
+msgstr "Link per il pulsante CTA."
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:225
+msgid "Button Link"
+msgstr "Link del pulsante"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:202
+msgid "Label for the CTA button."
+msgstr "Etichetta del pulsante CTA."
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:201
+#: inc/customizer/widgets/class-sinatra-customizer-widget-button.php:84
+msgid "Button Text"
+msgstr "Testo pulsante"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:177
+msgid "Call to Action Content"
+msgstr "Contenuto invito all'azione"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:176
+msgid "Shortcodes and basic html elements allowed."
+msgstr "Sono consentiti shortcode ed elementi html di base."
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:175
+#: inc/customizer/settings/class-sinatra-customizer-colors.php:85
+#: inc/customizer/widgets/class-sinatra-customizer-widget-text.php:58
+msgid "Content"
+msgstr "Contenuto"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:152
+msgid "Fullwidth"
+msgstr "Larghezza piena"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:151
+msgid "Contained"
+msgstr "Racchiuso"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:148
+msgid "Choose CTA Style."
+msgstr "Scegli uno stile CTA."
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:147
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:370
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:249
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:251
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:317
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:120
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:243
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:201
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:300
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:263
+#: inc/customizer/controls/typography/class-sinatra-customizer-control-typography.php:122
+#: inc/customizer/widgets/class-sinatra-customizer-widget-socials.php:63
+#: inc/customizer/widgets/class-sinatra-customizer-widget-search.php:70
+#: inc/customizer/widgets/class-sinatra-customizer-widget-button.php:138
+msgid "Style"
+msgstr "Stile"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:68
+msgid "Enable Call to Action"
+msgstr "Abilita l'invito all'azione"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:57
+msgid "Call to Action"
+msgstr "Invito all'azione"
+
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:46
+msgid "Pre Footer"
+msgstr "Pre Footer"
+
+#: inc/customizer/settings/class-sinatra-customizer-logo.php:149
+msgid "Site Identity"
+msgstr "Identità del sito"
+
+#: inc/customizer/settings/class-sinatra-customizer-logo.php:130
+msgid "Display Tagline"
+msgstr "Visualizza il motto"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:195
+#: inc/customizer/settings/class-sinatra-customizer-logo.php:115
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:377
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:126
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:229
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:154
+#: inc/customizer/controls/alignment/class-sinatra-customizer-control-alignment.php:47
+msgid "Left"
+msgstr "A sinistra"
+
+#: inc/customizer/settings/class-sinatra-customizer-logo.php:114
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:376
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:254
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:256
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:228
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:322
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:248
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:97
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:206
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:120
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:305
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:144
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:268
+#: inc/customizer/controls/alignment/class-sinatra-customizer-control-alignment.php:51
+msgid "Bottom"
+msgstr "In basso"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:196
+#: inc/customizer/settings/class-sinatra-customizer-logo.php:113
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:375
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:127
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:227
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:155
+#: inc/customizer/controls/alignment/class-sinatra-customizer-control-alignment.php:49
+msgid "Right"
+msgstr "A destra"
+
+#: inc/customizer/settings/class-sinatra-customizer-logo.php:112
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:374
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:253
+#: inc/customizer/settings/class-sinatra-customizer-main-header.php:255
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:226
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:321
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:247
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:96
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:205
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:119
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:304
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:143
+#: inc/customizer/settings/class-sinatra-customizer-breadcrumbs.php:267
+#: inc/customizer/controls/alignment/class-sinatra-customizer-control-alignment.php:45
+msgid "Top"
+msgstr "In alto"
+
+#: inc/customizer/settings/class-sinatra-customizer-logo.php:107
+msgid "Specify spacing around logo. Negative values are allowed."
+msgstr "Specifica la spaziatura attorno al logo. Sono consentiti valori negativi."
+
+#: inc/customizer/settings/class-sinatra-customizer-logo.php:106
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:222
+msgid "Logo Margin"
+msgstr "Margine del logo"
+
+#: inc/customizer/settings/class-sinatra-customizer-logo.php:82
+msgid "Maximum logo image height."
+msgstr "Altezza massima dell'immagine del logo."
+
+#: inc/customizer/settings/class-sinatra-customizer-logo.php:81
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:198
+msgid "Logo Height"
+msgstr "Altezza del logo"
+
+#: inc/customizer/settings/class-sinatra-customizer-logo.php:57
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:144
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:174
+msgid "Select"
+msgstr "Seleziona"
+
+#: inc/customizer/settings/class-sinatra-customizer-logo.php:56
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:143
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:173
+msgid "Select logo"
+msgstr "Seleziona il logo"
+
+#: inc/customizer/settings/class-sinatra-customizer-logo.php:52
+msgid "Upload exactly 2x the size of your default logo to make your logo crisp on HiDPI screens. This options is not required if logo above is in SVG format."
+msgstr "Carica esattamente il doppio delle dimensioni del tuo logo predefinito per renderlo nitido sugli schermi HiDPI. Questa opzione non è necessaria se il logo sopra è in formato SVG."
+
+#: inc/customizer/settings/class-sinatra-customizer-logo.php:51
+msgid "Retina Logo"
+msgstr "Logo retina"
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:246
+msgid "Specify sidebar widget title font size."
+msgstr "Specifica la dimensione del font del titolo del widget della barra laterale."
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:245
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:291
+msgid "Widget Title Font Size"
+msgstr "Dimensione del font dei titoli del widget"
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:234
+#: inc/customizer/settings/class-sinatra-customizer-logo.php:163
+#: inc/customizer/settings/class-sinatra-customizer-pre-footer.php:407
+#: inc/customizer/settings/class-sinatra-customizer-main-navigation.php:279
+#: inc/customizer/settings/class-sinatra-customizer-main-footer.php:273
+#: inc/customizer/settings/class-sinatra-customizer-page-header.php:231
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:297
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:237
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:443
+#: inc/customizer/settings/class-sinatra-customizer-buttons.php:523
+msgid "Typography"
+msgstr "Tipografia"
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:192
+msgid "Stick last widget"
+msgstr "Ultimo widget fisso"
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:191
+msgid "Stick first widget"
+msgstr "Primo widget fisso"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:160
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:190
+msgid "Disable"
+msgstr "Disabilita"
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:188
+msgid "Stick sidebar when scrolling."
+msgstr "Barra laterale fissa durante lo scorrimento."
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:187
+msgid "Sticky Sidebar"
+msgstr "Barra laterale fissa"
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:165
+msgid "Change your sidebar width."
+msgstr "Cambia la larghezza della tua barra laterale."
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:164
+msgid "Sidebar Width"
+msgstr "Larghezza della barra laterale"
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:145
+msgid "Widgets Separated"
+msgstr "Widget separati"
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:144
+msgid "Title Focus"
+msgstr "Titolo in evidenza"
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:143
+#: inc/customizer/settings/class-sinatra-customizer-top-bar.php:148
+#: inc/customizer/settings/class-sinatra-customizer-copyright-settings.php:176
+msgid "Minimal"
+msgstr "Minimale"
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:141
+msgid "Choose sidebar style."
+msgstr "Scegli lo stile della barra laterale."
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:140
+msgid "Sidebar Style"
+msgstr "Stile della barra laterale"
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:128
+msgid "Options"
+msgstr "Opzioni"
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:111
+msgid "Choose default sidebar position layout for archives and search results."
+msgstr "Scegli la posizione predefinita della barra laterale per gli archivi e i risultati della ricerca."
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:110
+msgid "Archives & Search"
+msgstr "Archivi e ricerca"
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:93
+msgid "Choose default sidebar position layout for pages. You can change this setting per page via metabox settings."
+msgstr "Scegli la posizione predefinita della barra laterale per le pagine del carrello, del pagamento e del catalogo. Puoi modificare questa impostazione per pagina tramite le impostazioni del metabox."
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:92
+msgid "Page"
+msgstr "Pagina"
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:78
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:96
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:114
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:374
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:391
+msgid "Default"
+msgstr "Predefinita"
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:75
+msgid "Choose default sidebar position layout for single posts. You can change this setting per post via metabox settings."
+msgstr "Scegli il layout predefinito della posizione della barra laterale per i singoli articoli. Puoi modificare questa impostazione per gli articoli tramite le impostazioni del metabox."
+
+#: inc/customizer/customizer-helpers.php:60
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:74
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:46
+msgid "Single Post"
+msgstr "Articolo singolo"
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:59
+msgid "Choose default sidebar position layout. You can change this setting per page via metabox settings."
+msgstr "Scegli il layout di posizione predefinito della barra laterale. Puoi modificare questa impostazione per pagina tramite le impostazioni del metabox."
+
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:58
+msgid "Default Position"
+msgstr "Posizione predefinita"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:233
+msgid "What to append to excerpt if the text is cut."
+msgstr "Il contenuto dell'estratto se il testo viene tagliato."
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:232
+msgid "Excerpt More"
+msgstr "Leggi tutto il riassunto"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:216
+msgid "Number of words displayed in the excerpt."
+msgstr "Numero di parole visualizzate nell'riassunto."
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:215
+msgid "Excerpt Length"
+msgstr "Lunghezza del riassunto"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:182
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:261
+msgid "Show avatar and icons in post meta"
+msgstr "Mostra avatar e icone nel meta dell'articolo"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:133
+msgid "Tags"
+msgstr "Tag"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:132
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:247
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:242
+msgid "Categories"
+msgstr "Categorie"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:131
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:241
+#: comments.php:34
+msgid "Comments"
+msgstr "Commenti"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:130
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:240
+msgid "Publish Date"
+msgstr "Data di pubblicazione"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:129
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:239
+msgid "Author"
+msgstr "Autore"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:127
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:236
+msgid "Set order and visibility for post meta details."
+msgstr "Imposta ordine e visibilità per i dettagli meta dell'articolo."
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:106
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:212
+msgid "Featured Image"
+msgstr "Immagine in evidenza"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:105
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:126
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:235
+msgid "Post Meta"
+msgstr "Meta dell'articolo"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:104
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:160
+msgid "Title"
+msgstr "Titolo"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:103
+msgid "Summary"
+msgstr "Riassunto"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:101
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:244
+msgid "Set order and visibility for post elements."
+msgstr "Imposta l'ordine e la visibilità per gli elementi dell'articolo."
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:100
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:243
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:197
+#: inc/customizer/settings/class-sinatra-customizer-single-post.php:208
+msgid "Post Elements"
+msgstr "Elementi dell'articolo"
+
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:46
+msgid "Blog Page / Archive"
+msgstr "Pagina Blog/Archivio"
+
+#: inc/customizer/settings/class-sinatra-customizer-sections.php:58
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer/settings/class-sinatra-customizer-sections.php:52
+msgid "Header"
+msgstr "Header"
+
+#: inc/customizer/settings/class-sinatra-customizer-sections.php:46
+msgid "General Settings"
+msgstr "Impostazioni generali"
+
+#: inc/helpers.php:196
+msgid "No results found"
+msgstr "Nessun risultato trovato"
+
+#. Translators: $s number of found results.
+#: inc/helpers.php:194
+msgid "%s result found"
+msgid_plural "%s results found"
+msgstr[0] "%s risultato trovato"
+msgstr[1] "%s risultati trovati"
+
+#: inc/helpers.php:130
+msgid "Posts by"
+msgstr "Articoli di"
+
+#: inc/helpers.php:120
+msgid "This page doesn&rsquo;t seem to exist."
+msgstr "Questa pagina sembra non esistere."
+
+#: inc/helpers.php:106
+msgid "Wishlist"
+msgstr "Lista dei desideri"
+
+#: inc/template-tags.php:1124
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento è in attesa di moderazione."
+
+#: inc/template-tags.php:1098
+msgid "Edit"
+msgstr "Modifica"
+
+#: inc/template-tags.php:1073
+msgctxt "Post author badge on comments"
+msgid "A"
+msgstr "A"
+
+#: inc/template-tags.php:1073
+msgid "The post author"
+msgstr "L'autore dell'articolo"
+
+#: inc/template-tags.php:1054
+msgid "(Edit)"
+msgstr "(modifica)"
+
+#: inc/template-tags.php:1054
+msgid "Pingback: "
+msgstr "Pingback: "
+
+#: inc/template-tags.php:1021 sidebar.php:41
+msgid "Click here to assign a widget."
+msgstr "Fai clic qui per assegnare un widget a quest'area."
+
+#: inc/template-tags.php:892
+msgid "Add Button Text"
+msgstr "Aggiungi testo al pulsante"
+
+#: inc/template-tags.php:832 inc/template-tags.php:956
+msgid "Assign a menu"
+msgstr "Assegna un menu"
+
+#: inc/template-tags.php:829 inc/template-tags.php:953
+msgid "Menu not assigned"
+msgstr "Non assegnato"
+
+#: inc/template-tags.php:684
+msgid "Tags:"
+msgstr "Tag:"
+
+#: inc/template-tags.php:635
+msgid "Posted in"
+msgstr "Pubblicato in"
+
+#: inc/template-tags.php:603
+msgid "% Comments"
+msgstr "% commenti"
+
+#: inc/template-tags.php:603
+msgid "1 Comment"
+msgstr "1 commento"
+
+#: inc/template-tags.php:603
+msgid "No Comments"
+msgstr "Nessun commento"
+
+#: inc/template-tags.php:538
+msgid "Last updated on"
+msgstr "Ultimo aggiornamento il"
+
+#. translators: %1$s Author
+#: inc/template-tags.php:515
+msgid "View all posts by %1$s"
+msgstr "Visualizza tutti gli articoli di %1$s"
+
+#. Translators: Author Name.
+#: inc/template-tags.php:514
+msgid "By "
+msgstr "Di "
+
+#: inc/template-tags.php:504
+msgid "Posted by"
+msgstr "Pubblicato da"
+
+#: inc/template-tags.php:396
+#: inc/customizer/settings/class-sinatra-customizer-transparent-header.php:80
+msgid "Pages"
+msgstr "Pagine"
+
+#: inc/template-tags.php:377
+msgid "Next page"
+msgstr "Pagina successiva"
+
+#: inc/template-tags.php:376
+msgid "Previous page"
+msgstr "Pagina precedente"
+
+#: inc/breadcrumbs.php:888
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/breadcrumbs.php:859 inc/breadcrumbs.php:1311
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/breadcrumbs.php:858 inc/breadcrumbs.php:928 inc/breadcrumbs.php:1308
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/breadcrumbs.php:857 inc/breadcrumbs.php:887 inc/breadcrumbs.php:927
+#: inc/breadcrumbs.php:955 inc/breadcrumbs.php:1305
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/breadcrumbs.php:840
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/breadcrumbs.php:822
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/breadcrumbs.php:804
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:345
+msgid "Week %s"
+msgstr "Settimana %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:343
+msgid "Minute %s"
+msgstr "Minuto %s"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:341
+msgid "Comment Page %s"
+msgstr "Pagina dei commenti %s"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:339
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#. Translators: %s is the search query.
+#. translators: 1: search string
+#: inc/breadcrumbs.php:337 inc/helpers.php:124
+msgid "Search results for: %s"
+msgstr "Risultati della ricerca per: %s"
+
+#: inc/breadcrumbs.php:335
+msgid "Archives"
+msgstr "Archivi"
+
+#: inc/breadcrumbs.php:334
+msgid "404 Not Found"
+msgstr "404 non trovato"
+
+#: inc/breadcrumbs.php:333 inc/helpers.php:114
+msgid "Home"
+msgstr "Home"
+
+#: inc/breadcrumbs.php:332
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Breadcrumb"
+
+#: inc/breadcrumbs.php:331
+msgid "Browse:"
+msgstr "Sfoglia:"
+
+#: inc/customizer/settings/class-sinatra-customizer-sections.php:64
+msgid "Blog"
+msgstr "Blog"
+
+#. translators: %s is plugin name.
+#: inc/utilities/class-sinatra-plugin-utilities.php:167
+msgid "Plugin %s is not active."
+msgstr "L'estensione %s non è attiva"
+
+#. translators: %s is plugin name.
+#: inc/utilities/class-sinatra-plugin-utilities.php:113
+msgid "Plugin %s is not installed."
+msgstr "Il plugin %s non è installato."
+
+#: inc/utilities/class-sinatra-plugin-utilities.php:98
+#: inc/utilities/class-sinatra-plugin-utilities.php:152
+msgid "Missing plugin data."
+msgstr "Plugin mancante"
+
+#: inc/utilities/class-sinatra-plugin-utilities.php:90
+#: inc/utilities/class-sinatra-plugin-utilities.php:144
+msgid "Current user can't activate plugins"
+msgstr "L'utente corrente non può attivare i plugin"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:253
+msgid "Theme Page Options"
+msgstr "Opzioni della pagina del tema"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:241
+msgid "Disable Copyright Bar"
+msgstr "Disabilita la barra del copyright"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:231
+msgid "Disable Main Footer"
+msgstr "Disabilita il footer principale"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:221
+msgid "Disable Pre Footer CTA"
+msgstr "Disabilita l'invito all'azione pre footer"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:212
+msgid "Disable Featured Image"
+msgstr "Disabilita l'immagine in evidenza"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:203
+msgid "Disable Breadcrumbs"
+msgstr "Disabilita i breadcrumb"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:193
+msgid "Disable Page Title"
+msgstr "Disabilita il titolo della pagina"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:184
+msgid "Disable Main Header"
+msgstr "Disabilita l'header principale"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:175
+msgid "Disable Top Bar"
+msgstr "Disabilita la barra superiore"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:147
+#: inc/customizer/settings/class-sinatra-customizer-layout.php:64
+msgid "Boxed"
+msgstr "Boxed"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:146
+#: inc/customizer/settings/class-sinatra-customizer-layout.php:63
+msgid "Boxed Content"
+msgstr "Contenuto boxed"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:145
+#: inc/customizer/settings/class-sinatra-customizer-layout.php:62
+msgid "Full Width: Stretched"
+msgstr "Larghezza piena: estesa"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:144
+#: inc/customizer/settings/class-sinatra-customizer-layout.php:61
+msgid "Full Width: Contained"
+msgstr "Larghezza piena: contenuto"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:139
+msgid "Content Layout"
+msgstr "Layout del contenuto"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:132
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:63
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:81
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:99
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:117
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:377
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:394
+msgid "Right Sidebar"
+msgstr "Barra laterale destra"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:131
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:62
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:80
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:98
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:116
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:376
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:393
+msgid "Left Sidebar"
+msgstr "Barra laterale sinistra"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:130
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:61
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:79
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:97
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:115
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:375
+#: inc/compatibility/woocommerce/class-sinatra-customizer-woocommerce.php:392
+msgid "No Sidebar"
+msgstr "Nessuna barra laterale"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:129
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:143
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:158
+msgid "Default (from Customizer)"
+msgstr "Predefinito (dal personalizzatore)"
+
+#: inc/admin/metabox/class-sinatra-meta-boxes.php:125
+#: inc/customizer/settings/class-sinatra-customizer-sidebar.php:47
+msgid "Sidebar"
+msgstr "Barra laterale"
+
+#: inc/admin/class-sinatra-admin.php:303
+msgid "Install Now"
+msgstr "Installa ora"
+
+#. translators: %1$s <strong> tag, %2$s </strong> tag
+#: inc/admin/class-sinatra-admin.php:292
+msgid "Sinatra theme recommends the following plugins: %1$s."
+msgstr "Questo tema consiglia i seguenti plugin:%1$s."
+
+#: inc/admin/class-sinatra-admin.php:248
+msgid "Leave a Review"
+msgstr "Lascia una recensione"
+
+#: inc/admin/class-sinatra-admin.php:222
+msgid "Customize"
+msgstr "Personalizza"
+
+#: inc/admin/class-sinatra-admin.php:150
+msgid "Visit site."
+msgstr "Visita il sito."
+
+#: inc/admin/class-sinatra-admin.php:150
+msgid "The demo has been imported."
+msgstr "La demo è stata importata."
+
+#: inc/admin/class-sinatra-admin.php:149
+msgid "Import Complete!"
+msgstr "Importazione completata."
+
+#: inc/admin/class-sinatra-admin.php:148
+msgid "The demo importer is still working. Closing this window may result in failed import."
+msgstr "Demo importer sta ancora lavorando. La chiusura di questa finestra potrebbe comportare un errore di importazione."
+
+#: inc/admin/class-sinatra-admin.php:147
+msgid "Import Demo"
+msgstr "Importa demo"
+
+#: inc/admin/class-sinatra-admin.php:146
+msgid "Import"
+msgstr "Importa"
+
+#: inc/admin/class-sinatra-admin.php:145
+msgid "Currently processing: "
+msgstr "Elaborazione in corso: "
+
+#: inc/admin/class-sinatra-admin.php:144
+msgid "Importing... Please Wait..."
+msgstr "Importazione in corso, attendere..."
+
+#: inc/admin/class-sinatra-admin.php:143
+msgid "Please Wait..."
+msgstr "Attendi..."
+
+#: inc/admin/class-sinatra-admin.php:142
+msgid "Retry"
+msgstr "Riprova"
+
+#: inc/admin/class-sinatra-admin.php:141
+msgid "Active"
+msgstr "Attivo"
+
+#: inc/admin/class-sinatra-admin.php:140
+msgid "Deactivating..."
+msgstr "Disattivazione in corso…"
+
+#: inc/admin/class-sinatra-admin.php:139
+msgid "Activating..."
+msgstr "Attivazione in corso..."
+
+#: inc/admin/class-sinatra-admin.php:138
+msgid "Installing..."
+msgstr "Installazione in corso..."
+
+#: inc/admin/class-sinatra-admin.php:137
+msgid "Install"
+msgstr "Installa"
+
+#: inc/admin/class-sinatra-dashboard.php:523
+msgid "Failed to deactivate plugin. Missing plugin data."
+msgstr "Impossibile disattivare il plugin. Mancano dei dati."
+
+#: inc/admin/class-sinatra-dashboard.php:493
+msgid "Failed to activate plugin. Missing plugin data."
+msgstr "Impossibile attivare il plugin. Mancano dei dati."
+
+#: inc/admin/class-sinatra-dashboard.php:479
+#: inc/admin/class-sinatra-dashboard.php:510
+msgid "Missing plugin data"
+msgstr "Dati del plugin mancanti"
+
+#: inc/admin/class-sinatra-dashboard.php:351
+msgid "Sinatra Theme Changelog"
+msgstr "Changelog del tema Sinatra"
+
+#: inc/admin/class-sinatra-dashboard.php:334
+msgid "Changelog file not readable."
+msgstr "File di log delle modifiche non leggibile."
+
+#: inc/admin/class-sinatra-dashboard.php:332
+msgid "Changelog file not found."
+msgstr "File di registro delle modifiche non trovato."
+
+#: inc/admin/class-sinatra-dashboard.php:283
+msgid "Install & Activate"
+msgstr "Installa e attiva"
+
+#: inc/admin/class-sinatra-dashboard.php:278
+msgid "Activate"
+msgstr "Attiva"
+
+#: inc/admin/class-sinatra-dashboard.php:275
+msgid "Plugin activated"
+msgstr "Plugin attivato"
+
+#: inc/admin/class-sinatra-dashboard.php:273
+msgid "Deactivate"
+msgstr "Disattiva"
+
+#: inc/admin/class-sinatra-dashboard.php:261
+#: inc/admin/class-sinatra-dashboard.php:450
+msgid "Recommended Plugins"
+msgstr "Plugin raccomandati"
+
+#: inc/admin/class-sinatra-dashboard.php:219
+#: inc/admin/class-sinatra-admin.php:223 inc/admin/class-sinatra-admin.php:246
+#: inc/compatibility/class-sinatra-endurance.php:141
+msgid "Help Articles"
+msgstr "Articoli di aiuto"
+
+#: inc/admin/class-sinatra-dashboard.php:216
+msgid "Head over to our site to learn more about the Sinatra theme, read help articles and get support."
+msgstr "Vai sul nostro sito per saperne di più sul tema Sinatra, leggi gli articoli di aiuto e ottieni assistenza."
+
+#: inc/admin/class-sinatra-dashboard.php:215
+msgid "Need Help?"
+msgstr "Serve aiuto?"
+
+#: inc/admin/class-sinatra-dashboard.php:205
+msgid "Replace the default theme colors and make your website color scheme match your brand design."
+msgstr "Sostituisci i colori del tema predefiniti e fai in modo che la combinazione di colori del tuo sito web corrisponda al design del tuo brand."
+
+#: inc/admin/class-sinatra-dashboard.php:204
+#: inc/admin/class-sinatra-dashboard.php:208
+msgid "Change Colors"
+msgstr "Cambia i colori"
+
+#: inc/admin/class-sinatra-dashboard.php:197
+msgid "Go to Menus"
+msgstr "Vai a Menu"
+
+#: inc/admin/class-sinatra-dashboard.php:194
+msgid "Customize menu links and choose what&rsquo;s displayed in available theme menu locations."
+msgstr "Personalizza i link ai menu e scegli ciò che viene visualizzato nelle posizioni dei menu dei temi disponibili."
+
+#: inc/admin/class-sinatra-dashboard.php:193
+msgid "Change Menus"
+msgstr "Cambia i menu"
+
+#: inc/admin/class-sinatra-dashboard.php:186
+msgid "Upload Logo"
+msgstr "Carica il logo"
+
+#: inc/admin/class-sinatra-dashboard.php:183
+msgid "Kick off branding your new site by uploading your logo. Simply upload your logo and customize as you need."
+msgstr "Dai il via al branding del tuo nuovo sito caricando il tuo logo. Carica semplicemente il tuo logo e personalizzalo in base alle tue esigenze."
+
+#: inc/admin/class-sinatra-dashboard.php:182
+msgid "Upload Your Logo"
+msgstr "Carica il tuo logo"
+
+#: inc/admin/class-sinatra-dashboard.php:162
+msgid "Browse Demos"
+msgstr "Sfoglia le demo"
+
+#: inc/admin/class-sinatra-dashboard.php:157
+msgid "Install Sinatra Core"
+msgstr "Installa il core Sinatra"
+
+#: inc/admin/class-sinatra-dashboard.php:152
+msgid "Activate Sinatra Core"
+msgstr "Attiva il core Sinatra"
+
+#: inc/admin/class-sinatra-dashboard.php:145
+msgid "Don&rsquo;t want to start from scratch? Import a pre-built demo website in 1-click and get a head start."
+msgstr "Non vuoi ricominciare da zero? Importa un sito web demo pre-costruito in 1 clic e parti avvantaggiato."
+
+#: inc/admin/class-sinatra-dashboard.php:144
+msgid "Start with a Template"
+msgstr "Inizia con un template"
+
+#: inc/admin/class-sinatra-dashboard.php:133
+#: inc/admin/class-sinatra-dashboard.php:137
+msgid "Install Plugins"
+msgstr "Installa i plugin"
+
+#: inc/admin/class-sinatra-dashboard.php:126
+msgid "Getting Started"
+msgstr "Guida introduttiva"
+
+#: inc/admin/class-sinatra-dashboard.php:101
+#: inc/admin/class-sinatra-dashboard.php:456
+msgid "Changelog"
+msgstr "Changelog"
+
+#: inc/admin/class-sinatra-dashboard.php:87
+msgid "Plugins"
+msgstr "Plugin"
+
+#: inc/admin/class-sinatra-dashboard.php:76
+#: inc/admin/class-sinatra-admin.php:179
+msgid "Sinatra Theme"
+msgstr "Tema Sinatra"
+
+#: inc/admin/helpers.php:251
+msgid "How to use"
+msgstr "Come si usa"
+
+#: inc/admin/helpers.php:53
+msgid "Dismiss"
+msgstr "Ignora"
+
+#: template-parts/misc/back-to-top.php:12
+#: template-parts/misc/back-to-top.php:17
+msgid "Scroll to Top"
+msgstr "Torna in alto"
+
+#: template-parts/header/widgets/search.php:14
+#: template-parts/header/widgets/search.php:22
+#: inc/customizer/customizer-helpers.php:53
+#: inc/customizer/widgets/class-sinatra-customizer-widget-search.php:51
+#: searchform.php:24 searchform.php:27
+msgid "Search"
+msgstr "Cerca"
+
+#: template-parts/header/widgets/search.php:21
+#: woocommerce/product-searchform.php:28
+msgid "Search for:"
+msgstr "Cerca:"
+
+#: template-parts/header/widgets/search.php:18
+msgid "Site Search"
+msgstr "Ricerca nel sito"
+
+#: template-parts/content/content-404.php:29
+msgid "Return to Home"
+msgstr "Torna alla home"
+
+#: template-parts/content/content-404.php:24
+msgid "We couldn&rsquo;t find the page you are looking for. Perhaps you can try searching:"
+msgstr "Impossibile trovare la pagina che cerchi. Forse, puoi provare a cercare:"
+
+#: template-parts/content/content-404.php:20
+msgid "Oops! Page not found."
+msgstr "Oops! Pagina non trovata."
+
+#: template-parts/content/content-404.php:19
+msgid "404"
+msgstr "404"
+
+#: template-parts/content/content-none.php:62
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Non riusciamo a trovare quello che cerchi. Forse eseguire una ricerca potrebbe essere di aiuto."
+
+#: template-parts/content/content-none.php:56
+msgid "There aren&rsquo;t any posts currently published under this tag."
+msgstr "Al momento, non ci sono articoli pubblicati con questo tag."
+
+#: template-parts/content/content-none.php:50
+msgid "There aren&rsquo;t any posts currently published under this taxonomy."
+msgstr "Al momento, non ci sono articoli pubblicati con questo tassonomia."
+
+#: template-parts/content/content-none.php:44
+msgid "There aren&rsquo;t any posts currently published in this category."
+msgstr "There aren&rsquo;t any posts currently published in this category."
+
+#: template-parts/content/content-none.php:37
+msgid "Sorry, no results were found. Please try again with different keywords."
+msgstr "Sorry, no results were found. Please try again with different keywords."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto a pubblicare il tuo primo articolo? <a href=\"%1$s\">Inizia da qui</a>."
+
+#: template-parts/hero/hero-hover-slider.php:90 inc/helpers.php:1492
+#: inc/customizer/settings/class-sinatra-customizer-hero.php:249
+msgid "Continue Reading"
+msgstr "Continua a leggere"
+
+#: template-parts/entry/entry-prev-next-post.php:42
+msgid "Next Post"
+msgstr "Articolo successivo"
+
+#: template-parts/entry/entry-prev-next-post.php:32
+msgid "Previous Post"
+msgstr "Articolo precedente"
+
+#: template-parts/entry/entry-prev-next-post.php:26
+msgid "Post navigation"
+msgstr "Navigazione articoli"
+
+#. translators: %s is comment count
+#. translators: %s Comment count
+#: template-parts/entry/entry-show-comments.php:20
+#: inc/core/class-sinatra-enqueue-scripts.php:123
+msgid "Show %s Comment"
+msgid_plural "Show %s Comments"
+msgstr[0] "Mostra %s commento"
+msgstr[1] "Mostra %s commenti"
+
+#. translators: %s Comment count
+#: template-parts/entry/entry-show-comments.php:16
+#: inc/core/class-sinatra-enqueue-scripts.php:123
+msgid "Leave a Comment"
+msgstr "Lascia un commento"
+
+#: template-parts/entry/entry-summary-footer.php:26
+#: inc/customizer/settings/class-sinatra-customizer-blog-page.php:107
+msgid "Read More"
+msgstr "Leggi tutto"
+
+#: template-parts/entry/entry-summary.php:26
+msgid "This content is password protected. To view it please go to the post page and enter the password."
+msgstr "This content is password protected. To view it please go to the post page and enter the password."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/entry/entry-meta.php:53
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Modifica <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/entry/entry-author-posts-button.php:13
+msgid "View All Posts"
+msgstr "Visualizza tutti gli articoli"
+
+#. Translators: %1$s: <a> tag. %2$s: </a>.
+#: template-parts/entry/entry-about-author.php:53
+msgid "You haven&rsquo;t entered your Biographical Information yet. %1$sEdit your Profile%2$s now."
+msgstr "You haven&rsquo;t entered your Biographical Information yet. %1$sEdit your Profile%2$s now."
+
+#: template-parts/entry/entry-about-author.php:33
+#: inc/admin/class-sinatra-dashboard.php:444
+msgid "About"
+msgstr "Chi siamo"
+
+#. Template Name of the theme
+msgid "Sinatra Fullwidth"
+msgstr "Sinatra a larghezza piena"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Salta al contenuto"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Sinatra Team"
+msgstr "Sinatra Team"
