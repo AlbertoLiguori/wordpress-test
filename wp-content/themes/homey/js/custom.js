@@ -2375,7 +2375,7 @@ jQuery('.nav-tabs li a').click(function(e){
 });
 
 
-console.log('>>>>>>>>>TEST-3')
+console.log('>>>>>>>>>TEST-4')
 
 
 
